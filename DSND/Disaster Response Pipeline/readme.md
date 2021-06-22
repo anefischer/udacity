@@ -2,7 +2,7 @@
 
 ## Project Details
 
-This project is a web app to classifying messages. 
+This project is a web app to classifying messages. During a disaster this app will help people to classify messages correctly and take the correct actions. 
 
 ### 1. ETL Process
 
@@ -19,6 +19,22 @@ Finally, the model is deployed to that messages can be classified online.
 
 ## Data Pipelines: Python Scripts
 
+The archive has the following structure:
+
+app
+| - template
+| |- master.html # main page of web app
+| |- go.html # classification result page of web app
+|- run.py # Flask file that runs app
+data
+|- disaster_categories.csv # data to process
+|- disaster_messages.csv # data to process
+|- process_data.py
+|- DisasterResponse.db # database to save clean data to
+models
+|- train_classifier.py
+|- classifier.pkl # saved model
+README.md
 
 The following commands need to be run in the corresponding folders to set up the database and train the model.
 
