@@ -3,6 +3,7 @@ import pandas as pd
 from sqlalchemy import create_engine
 
 def load_data(messages_filepath, categories_filepath):
+    """Reads messages and categories and merge them"""
     
     # load messages dataset
     messages = pd.read_csv(messages_filepath)
@@ -17,6 +18,7 @@ def load_data(messages_filepath, categories_filepath):
     
     
 def clean_data(df):
+    """Cleans dataframe for analyzes"""
     
     # create a dataframe of the 36 individual category columns
     categories = df['categories'].str.split(';', expand=True)
@@ -39,6 +41,8 @@ def clean_data(df):
         # convert column from string to numeric
         categories[column] = categories[column].astype(int)
     
+    categories['related'] = categories['related'].replace(2, 1)
+    
     # drop the original categories column from `df`
     df.drop('categories', axis = 1, inplace = True)
 
@@ -51,9 +55,10 @@ def clean_data(df):
     return df
 
 def save_data(df, database_filename):
+    """Saves dataframe"""
     
     engine = create_engine('sqlite:///{}'.format(database_filename))
-    df.to_sql('messages', engine, index=False)
+    df.to_sql('messages', engine, if_exists='replace', index=False)
 
 
 def main():
