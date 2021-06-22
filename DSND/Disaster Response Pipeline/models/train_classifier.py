@@ -21,6 +21,7 @@ from sklearn.metrics import confusion_matrix, classification_report, hamming_los
 import pickle
 
 def load_data(database_filepath):
+    """loads data from given database"""
     
     engine = create_engine('sqlite:///{}'.format(database_filepath))
     df = pd.read_sql_table("messages", con=engine)
@@ -33,6 +34,7 @@ def load_data(database_filepath):
     return X, Y, category_names
 
 def tokenize(text):
+    """Tokenize and lemmatize each word in a given text"""
     
     tokens = word_tokenize(text)
     lemmatizer = WordNetLemmatizer()
@@ -45,6 +47,7 @@ def tokenize(text):
 
 
 def build_model():
+    """Create a machine learning pipeline"""
     
     pipeline = Pipeline([
             ('vec', CountVectorizer(tokenizer=tokenize)),
@@ -60,6 +63,7 @@ def build_model():
     return pipeline
 
 def evaluate_model(model, X_test, Y_test, category_names):
+    """Generates report of model"""
     
     Y_pred = model.predict(X_test)
     for idx, column in enumerate(category_names):
@@ -68,6 +72,8 @@ def evaluate_model(model, X_test, Y_test, category_names):
 
 
 def save_model(model, model_filepath):
+    """Saves model"""
+    
     pickle.dump(model, open(model_filepath, 'wb'))
 
 
