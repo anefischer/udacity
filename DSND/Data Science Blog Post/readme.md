@@ -10,7 +10,7 @@ The archive has the following structure:
 - Data Science Blog Post.ipynb (Ready to run Jupyter Notebook)
 - Data Science Blog Post.html (HTML Print of the notebook)
 
-To be able to run the Jupyter notebook, you need to install these libraries:
+To run the Jupyter notebook following libraries are required:
 * Numpy: https://github.com/numpy/numpy
 * Pandas: https://github.com/pandas-dev/pandas
 * Matplotlib: https://github.com/matplotlib/matplotlib
