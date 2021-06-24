@@ -6,6 +6,10 @@ This project is part of the Udacity Data Scientist Nanodegree Programm
 Every year, Stack Overflow conducts a massive survey of people on the site, covering all sorts of information like programming languages, salary, code style and various other information. In the year 2017, they amassed more than 64,000 responses fielded from 213 countries. The data is downloaded from kaggle:
 https://www.kaggle.com/stackoverflow/so-survey-2017
 
+The archive has the following structure:
+- Data Science Blog Post.ipynb (Ready to run Jupyter Notebook)
+- Data Science Blog Post.html (HTML Print of the notebook)
+- 
 ## Investigations
 
 There is this rumor that IT guys hack all night and show up late at night. Is it actually true? Is it happening all over the world? Does the contribution to Open Source projects have an impact?
@@ -22,6 +26,4 @@ The investigation is done according to this sheme:
 
 The results are presentet at medium blog post.
 
-The archive has the following structure:
-- Data Science Blog Post.ipynb
-- Data Science Blog Post.html
+
