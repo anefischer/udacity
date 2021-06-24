@@ -10,6 +10,12 @@ The archive has the following structure:
 - Data Science Blog Post.ipynb (Ready to run Jupyter Notebook)
 - Data Science Blog Post.html (HTML Print of the notebook)
 
+To be able to run the Jupyter notebook, you need to install these libraries:
+* Numpy: https://github.com/numpy/numpy
+* Pandas: https://github.com/pandas-dev/pandas
+* Matplotlib: https://github.com/matplotlib/matplotlib
+* Seaborn: https://github.com/mwaskom/seaborn
+
 ## Investigations
 
 There is this rumor that IT guys hack all night and show up late at night. Is it actually true? Is it happening all over the world? Does the contribution to Open Source projects have an impact?
