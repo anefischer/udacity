@@ -3,7 +3,8 @@
 This project is part of the Udacity Data Scientist Nanodegree Programm
 
 ## Analyzing Stack Overflow Survey Data
-Every year, Stack Overflow conducts a massive survey of people on the site, covering all sorts of information like programming languages, salary, code style and various other information. In the year 2017, they amassed more than 64,000 responses fielded from 213 countries.
+Every year, Stack Overflow conducts a massive survey of people on the site, covering all sorts of information like programming languages, salary, code style and various other information. In the year 2017, they amassed more than 64,000 responses fielded from 213 countries. The data is downloaded from kaggle:
+https://www.kaggle.com/stackoverflow/so-survey-2017
 
 ## Investigations
 
@@ -20,3 +21,7 @@ The investigation is done according to this sheme:
 * Explanatory Visualization
 
 The results are presentet at medium blog post.
+
+The archive has the following structure:
+- Data Science Blog Post.ipynb
+- Data Science Blog Post.html
