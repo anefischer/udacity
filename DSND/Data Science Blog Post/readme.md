@@ -9,7 +9,7 @@ https://www.kaggle.com/stackoverflow/so-survey-2017
 The archive has the following structure:
 - Data Science Blog Post.ipynb (Ready to run Jupyter Notebook)
 - Data Science Blog Post.html (HTML Print of the notebook)
-- 
+
 ## Investigations
 
 There is this rumor that IT guys hack all night and show up late at night. Is it actually true? Is it happening all over the world? Does the contribution to Open Source projects have an impact?
