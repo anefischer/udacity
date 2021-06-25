@@ -40,3 +40,6 @@ The Deep Reinforcement Learning Nanodegree program teaches how to train AI agent
 Recommended time: 3 months, Level: Intermediate
 
 The Machine Learning Nanodegree program teaches a variety of techniques for modeling real-world data that can be used as standalone products or as part of an end-to-end AI system.
+
+
+Total effort 21 months with 10hrs/week. I guess thats about one term at university.
