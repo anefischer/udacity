@@ -8,7 +8,7 @@ This is a github repro for the Udacity Nanodegree Programms I haven taken.
 - Data Visualization
 
 ### DSND: Data Scientist Nanodegree (nd025)
-The Data Scientist Nanodegree program builds on the foundation of the Daza Analyst Nanodegree to teach the following skills that companies look for in Data Scientist job candidates:
+The Data Scientist Nanodegree program builds on the foundation of the Data Analyst Nanodegree to teach the following skills that companies look for in Data Scientist job candidates:
 * Knowledge of how to build supervised machine learning models and making data-driven solutions
 * Strong understanding of neural networks, deep learning, and PyTorch
 * Ability to build unsupervised machine learning models
