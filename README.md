@@ -51,7 +51,7 @@ The Deep Learning Nanodegree program introduces key techniques powering many of 
 Recommended time: 3 months, Level: Advanced
 
 The course recommends the book by Miguel Morales who also gives a lesson:
-* [Grokking Deep Reinforcement Learning:](https://amzn.to/3A0gEWD)
+* [Grokking Deep Reinforcement Learning](https://amzn.to/3A0gEWD)
 
 The Deep Reinforcement Learning Nanodegree program teaches how to train AI agents to perform a variety of complex tasks.
 
