@@ -1,6 +1,6 @@
 # Udacity Nanodegree Programms
 
-This is a github repro for the Udacity Nanodegree Programms I taken in the past.
+This is a github repro for the Udacity Nanodegree Programms I haven taken.
 
 DAND: Data Analyst Nanodegree (nd002)
 - Data Visualization
