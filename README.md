@@ -28,6 +28,12 @@ The Data Scientist Nanodegree program builds on the foundation of the Data Analy
 ### AIND: Artificial Intelligence Nanodegree (nd898)
 Recommended time: 3 months, Level: Advanced
 
+#### Projects
+- Build a Sudoku Solver
+- Build a Forward-Planning Agent
+- Build an Adversarial Game Playing Agent
+- Part of Speech Tagging
+
 ### DL: Deep Learning (nd101)
 Recommended time: 4 months, Level: Intermediate
 
