@@ -29,8 +29,8 @@ The Data Scientist Nanodegree program builds on the foundation of the Data Analy
 Recommended time: 3 months, Level: Advanced
 
 The course is based around the book of Peter Norvig who gives a lot of lessons:
-[Artificial Intelligence: A Modern Approach](https://amzn.to/3x9zn09)
-[Künstliche Intelligenz: Ein moderner Ansatz](https://amzn.to/3jaDqVx)
+* [Artificial Intelligence: A Modern Approach](https://amzn.to/3x9zn09)
+* [Künstliche Intelligenz: Ein moderner Ansatz](https://amzn.to/3jaDqVx)
 
 #### Projects
 - Build a Sudoku Solver
@@ -42,8 +42,8 @@ The course is based around the book of Peter Norvig who gives a lot of lessons:
 Recommended time: 4 months, Level: Intermediate
 
 The course recommends the book by Andrew Trask who also gives a lesson:
-[Grokking Deep Learning](https://amzn.to/3qqyD3R)
-[Neuronale Netze und Deep Learning kapieren: Der einfache Praxiseinstieg mit Beispielen in Python](https://amzn.to/3jf0Clt)
+* [Grokking Deep Learning](https://amzn.to/3qqyD3R)
+* [Neuronale Netze und Deep Learning kapieren: Der einfache Praxiseinstieg mit Beispielen in Python](https://amzn.to/3jf0Clt)
 
 The Deep Learning Nanodegree program introduces key techniques powering many of the most exciting recent advances in AI. You'll learn about various network architectures and applications, with an emphasis on real-world applications.
 
@@ -51,7 +51,7 @@ The Deep Learning Nanodegree program introduces key techniques powering many of 
 Recommended time: 3 months, Level: Advanced
 
 The course recommends the book by Miguel Morales who also gives a lesson:
-[Grokking Deep Reinforcement Learning:](https://amzn.to/3A0gEWD)
+* [Grokking Deep Reinforcement Learning:](https://amzn.to/3A0gEWD)
 
 The Deep Reinforcement Learning Nanodegree program teaches how to train AI agents to perform a variety of complex tasks.
 
