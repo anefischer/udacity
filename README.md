@@ -22,6 +22,7 @@ The Data Scientist Nanodegree program builds on the foundation of the Data Analy
 #### Projects
 - Data Science Blog Post
 - Disaster Response Pipeline
+- Recommendations with IBM
 - Dog Project
 
 ### AIND: Artificial Intelligence Nanodegree (nd898)
