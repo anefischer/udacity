@@ -64,3 +64,4 @@ The Machine Learning Nanodegree program teaches a variety of techniques for mode
 
 
 
+<meta name="google-site-verification" content="vYdX4iupLclsQwkit7r5F_nAmO1kZgq2rR17AJmv-Tk" />
