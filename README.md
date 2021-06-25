@@ -62,6 +62,3 @@ Recommended time: 3 months, Level: Intermediate
 
 The Machine Learning Nanodegree program teaches a variety of techniques for modeling real-world data that can be used as standalone products or as part of an end-to-end AI system.
 
-
-
-<meta name="google-site-verification" content="vYdX4iupLclsQwkit7r5F_nAmO1kZgq2rR17AJmv-Tk" />
