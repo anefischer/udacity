@@ -2,6 +2,7 @@
 
 This is a github repro for the Udacity Nanodegree Programms I haven taken in 2021.
 The cumulative effort for the courses is 21 months calculated with 10hrs/week. I guess thats about one term at university.
+Udacity has a lot of more interessting courses. My goal was to get fast into Data Science and Machine Learning while also understanding the theory.
 
 ### DAND: Data Analyst Nanodegree (nd002)
 Recommended time: 4 months, Level: Intermediate
