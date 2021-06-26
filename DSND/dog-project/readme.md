@@ -24,3 +24,11 @@ To train the networks udacity provided bootleneck features which can be download
 * https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz
 * https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogResnet50Data.npz
 
+### Review
+
+* I'd recommend structuring the project writeup so that each rubric item is addressed in its own section (Project Overview, Problem Statement, Metrics etc.). Here's a good example of how this looks: https://medium.com/@gopal.iyer0/robot-motion-planning-dsnd-capstone-project-234252e608b9
+* [Towards Data Science publication on Medium.](https://towardsdatascience.com/)
+* [Here is a blog post that explains when to use which classification or regression evaluation metrics.](https://towardsdatascience.com/20-popular-machine-learning-metrics-part-1-classification-regression-evaluation-metrics-1ca3e282a2ce)
+* You could have tried and specified some preprocessing steps for e.g. transforming the images before passing it to model for training and prediction. [This resource](https://keras.io/api/preprocessing/image/) on how to do it in Keras can be helpful to you if you choose to explore further in that direction.
+* You can practise to follow Google’s Python Coding style while [documenting the functions that you write in Python](http://%20google.github.io/styleguide/pyguide.html).
+* This lady has shared some [good tips on how to write a great README for your GitHub project](https://bulldogjob.com/news/449-how-to-write-a-%20good-readme-for-your-github-project). 
