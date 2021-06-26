@@ -13,7 +13,10 @@ At the end of the course Udacity recommends to take the Data Scientist Nanodegre
 
 #### Projects
 - Explore Weather Trends
-- Data Visualization
+- Investigate a Dataset
+- Analyze A/B Test Results
+- Wrangle and Analyze Data
+- Communicate Data Findings
 
 ### DSND: Data Scientist Nanodegree (nd025)
 Recommended time: 4 months, Level: Advanced
