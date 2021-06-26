@@ -9,6 +9,8 @@ I therefor selected the following courses.
 ### DAND: Data Analyst Nanodegree (nd002)
 Recommended time: 4 months, Level: Intermediate
 
+At the end of the course Udacity recommends to take the Data Scientist Nanodegree Programm. 
+
 #### Projects
 - Data Visualization
 
@@ -34,6 +36,8 @@ Recommended time: 3 months, Level: Advanced
 The course is based around the book by Peter Norvig who also gives a lot of the lessons:
 * [Artificial Intelligence: A Modern Approach](https://amzn.to/3x9zn09)
 * [Künstliche Intelligenz: Ein moderner Ansatz](https://amzn.to/3jaDqVx)
+
+At the end of the course Udacity recommends to take the Deep Learning,  Deep Reinforcement Learning and Machine Learning Engineer Nanodegree Programm. 
 
 #### Projects
 - Build a Sudoku Solver
