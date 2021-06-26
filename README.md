@@ -33,7 +33,7 @@ The Data Scientist Nanodegree program builds on the foundation of the Data Analy
 ### AIND: Artificial Intelligence Nanodegree (nd898)
 Recommended time: 3 months, Level: Advanced
 
-The course is based around the book by Peter Norvig who also gives a lot of the lessons:
+The course is based around the book by Peter Norvig who also gives a lot of the lectures withinthe programm:
 * [Artificial Intelligence: A Modern Approach](https://amzn.to/3x9zn09)
 * [Künstliche Intelligenz: Ein moderner Ansatz](https://amzn.to/3jaDqVx)
 
@@ -48,7 +48,7 @@ At the end of the course Udacity recommends to take the Deep Learning,  Deep Rei
 ### DL: Deep Learning (nd101)
 Recommended time: 4 months, Level: Intermediate
 
-The course recommends the book by Andrew Trask who also gives a lesson:
+The course recommends the book by Andrew Trask who also gives a lecture within the programm:
 * [Grokking Deep Learning](https://amzn.to/3qqyD3R)
 * [Neuronale Netze und Deep Learning kapieren: Der einfache Praxiseinstieg mit Beispielen in Python](https://amzn.to/3jf0Clt)
 
@@ -57,7 +57,7 @@ The Deep Learning Nanodegree program introduces key techniques powering many of 
 ### DRLND: Deep Reinforcement Learning Nanodegree (nd893)
 Recommended time: 3 months, Level: Advanced
 
-The course recommends the book by Miguel Morales who also gives a lesson:
+The course recommends the book by Miguel Morales who also gives a lecture within the programm:
 * [Grokking Deep Reinforcement Learning](https://amzn.to/3A0gEWD)
 
 The Deep Reinforcement Learning Nanodegree program teaches how to train AI agents to perform a variety of complex tasks.
