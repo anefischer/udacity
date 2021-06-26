@@ -1,4 +1,4 @@
-# Project Dog Breeds
+# Capstone Project: Dog Project
 
 ## Outline
 
