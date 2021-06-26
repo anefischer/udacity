@@ -1,6 +1,6 @@
 # Udacity Nanodegree Programms
 
-This is a github repro for the Udacity Nanodegree Programms I haven taken in 2021. I only uncluded the final projects that are al l graded.
+This is a github repro for the Udacity Nanodegree Programms I haven taken in 2021. It includes all the final projects that are all graded. In case you have a question feel free to contact me.
 
 The cumulative effort for the courses is 21 months (based on 10hrs/week). I guess thats about one term at university.
 Udacity has a lot of more interessting courses. My goal was to get fast into Data Science and Machine Learning while also understanding the theory behind it.
