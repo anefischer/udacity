@@ -12,6 +12,7 @@ Recommended time: 4 months, Level: Intermediate
 At the end of the course Udacity recommends to take the Data Scientist Nanodegree Programm. 
 
 #### Projects
+- Explore Weather Trends
 - Data Visualization
 
 ### DSND: Data Scientist Nanodegree (nd025)
