@@ -56,3 +56,19 @@ Furthermore to get the correct url of the app:
 The url then looks like this:
 `https://SPACEID-3001.SPACEDOMAIN`
 
+## Review
+
+The reviewer recommended hosting the project in the cloud:
+* https://www.heroku.com/
+* 
+Useful References:
+* [Successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+* [5 types of git workflows](https://buddy.works/blog/5-types-of-git-workflows)
+* [Python Docstrings](https://www.geeksforgeeks.org/python-docstrings/)
+* [Docstring vs Comments](https://stackoverflow.com/questions/19074745/docstrings-vs-comments)
+* [How to write a good readme for your github project?](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+* [Anatomy of a Readme File](https://classroom.udacity.com/courses/ud777/lessons/5338568539/concepts/53317786160923)
+* [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
+* [10 Useful Python Data Visualization Libraries for Any Discipline](https://blog.modeanalytics.com/python-data-visualization-libraries/)
+* [5 Quick and Easy Data Visualizations in Python with Code](https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-with-code-a2284bae952f)
+* [The Best Python Data Visualization Libraries](https://www.fusioncharts.com/blog/best-python-data-visualization-libraries/)
