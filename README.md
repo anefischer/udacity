@@ -14,9 +14,9 @@ At the end of the course Udacity recommends to take the Data Scientist Nanodegre
 #### Projects
 - Explore Weather Trends
 - Investigate a Dataset
-- Analyze A/B Test Results
-- Wrangle and Analyze Data
-- Communicate Data Findings
+- Analyze A/B Test Results (Practical Statistics)
+- Wrangle and Analyze Data (Data Wrangling)
+- Communicate Data Findings (Data Visualization)
 
 ### DSND: Data Scientist Nanodegree (nd025)
 Recommended time: 4 months, Level: Advanced
@@ -30,8 +30,8 @@ The Data Scientist Nanodegree program builds on the foundation of the Data Analy
 
 #### Projects
 - Data Science Blog Post
-- Disaster Response Pipeline
-- Recommendations with IBM
+- Disaster Response Pipeline (Data Engineering)
+- Recommendations with IBM (Experimental Design & Recommendations)
 - Capstone: Dog Project
 
 ### AIND: Artificial Intelligence Nanodegree (nd898)
@@ -45,9 +45,9 @@ At the end of the course Udacity recommends to take the Deep Learning,  Deep Rei
 
 #### Projects
 - Build a Sudoku Solver
-- Build a Forward-Planning Agent
-- Build an Adversarial Game Playing Agent
-- Part of Speech Tagging
+- Build a Forward-Planning Agent (Automated Planning)
+- Build an Adversarial Game Playing Agent (Adversarial Search)
+- Part of Speech Tagging (Probabilistic Models)
 
 ### DL: Deep Learning (nd101)
 Recommended time: 4 months, Level: Intermediate
@@ -57,6 +57,13 @@ The course recommends the book by Andrew Trask who also gives a lecture within t
 * [Neuronale Netze und Deep Learning kapieren: Der einfache Praxiseinstieg mit Beispielen in Python](https://amzn.to/3jf0Clt)
 
 The Deep Learning Nanodegree program introduces key techniques powering many of the most exciting recent advances in AI. You'll learn about various network architectures and applications, with an emphasis on real-world applications.
+
+#### Projects:
+* Predicting Bike-Sharing Patterns (Neural Networks)
+* Landmark Classification & Tagging for Social Media (Convolutional Neural Networks)
+* Generate TV Scripts (Recurrent Neural Networks)
+* Generate Faces (Generative Adversarial Networks)
+* Deploying a Sentiment Analysis Model (Deploying a Model)
 
 ### DRLND: Deep Reinforcement Learning Nanodegree (nd893)
 Recommended time: 3 months, Level: Advanced
