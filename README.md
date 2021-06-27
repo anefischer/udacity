@@ -73,6 +73,11 @@ The course recommends the book by Miguel Morales who also gives a lecture within
 
 The Deep Reinforcement Learning Nanodegree program teaches how to train AI agents to perform a variety of complex tasks.
 
+#### Projects
+* Navigation (Value-Based Methods)
+* Continuous Control (Policy-Based Methods)
+* Collaboration and Competition (Multi-Agent Reinforcement Learning)
+
 ### MLE: Machine Learning Engineer (nd009-ent)
 Recommended time: 3 months, Level: Intermediate
 
