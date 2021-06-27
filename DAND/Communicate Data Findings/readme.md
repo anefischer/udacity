@@ -23,3 +23,9 @@ In the first step the data is analysed (exploration_template.ipynb and explorati
 In the second step the key findings are visualizatied (slide_deck_template.ipynb and slide_deck_template.slides.html)
 
 I focus on pointing out the correlation between Loan Status, Debt To Income Ratio and Income Range.
+
+## Review
+
+* 10 Tips for Writing Cleaner & Better Code - https://www.makeuseof.com/tag/10-tips-writing-cleaner-better-code/
+* Use functions to avoid code repetition - https://www.cs.utah.edu/~germain/PPS/Topics/functions.html
+* Why should we comment code? - https://www.cs.utah.edu/~germain/PPS/Topics/commenting.html
