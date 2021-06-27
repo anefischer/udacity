@@ -6,6 +6,8 @@ The cumulative effort for the courses is 21 months (based on 10hrs/week). I gues
 Udacity has a lot of more interessting courses. My goal was to get fast into Data Science and Machine Learning while also understanding the theory behind it.
 I therefor selected the following courses.
 
+Note: Udacity reviewers give a lot useful feedback even after successfully passing a project. I am still implementing most of it.
+
 ### DAND: Data Analyst Nanodegree (nd002)
 Recommended time: 4 months, Level: Intermediate
 
