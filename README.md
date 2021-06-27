@@ -11,6 +11,9 @@ Note: Udacity reviewers give very useful feedback even after successfully passin
 ### DAND: Data Analyst Nanodegree (nd002)
 Recommended time: 4 months, Level: Intermediate
 
+PREREQUISITES
+Python & SQL
+
 At the end of the course Udacity recommends to take the Data Scientist Nanodegree Programm. 
 
 #### Projects
@@ -22,6 +25,9 @@ At the end of the course Udacity recommends to take the Data Scientist Nanodegre
 
 ### DSND: Data Scientist Nanodegree (nd025)
 Recommended time: 4 months, Level: Advanced
+
+PREREQUISITES
+Python, SQL & Statistics
 
 The Data Scientist Nanodegree program builds on the foundation of the Data Analyst Nanodegree to teach the following skills that companies look for in Data Scientist job candidates:
 * Knowledge of how to build supervised machine learning models and making data-driven solutions
@@ -39,6 +45,9 @@ The Data Scientist Nanodegree program builds on the foundation of the Data Analy
 ### AIND: Artificial Intelligence Nanodegree (nd898)
 Recommended time: 3 months, Level: Advanced
 
+PREREQUISITES
+Algebra, Calculus, Statistics, & Python
+
 The course is based around the book by Peter Norvig who also gives a lot of the lectures withinthe programm:
 * [Artificial Intelligence: A Modern Approach](https://amzn.to/3x9zn09)
 * [Künstliche Intelligenz: Ein moderner Ansatz](https://amzn.to/3jaDqVx)
@@ -53,6 +62,9 @@ At the end of the course Udacity recommends to take the Deep Learning,  Deep Rei
 
 ### DL: Deep Learning (nd101)
 Recommended time: 4 months, Level: Intermediate
+
+PREREQUISITES
+Basic Python
 
 The course recommends the book by Andrew Trask who also gives a lecture within the programm:
 * [Grokking Deep Learning](https://amzn.to/3qqyD3R)
@@ -70,6 +82,9 @@ The Deep Learning Nanodegree program introduces key techniques powering many of 
 ### DRLND: Deep Reinforcement Learning Nanodegree (nd893)
 Recommended time: 3 months, Level: Advanced
 
+PREREQUISITES
+Experience with Python, Probability, Machine Learning, & Deep Learning.
+
 The course recommends the book by Miguel Morales who also gives a lecture within the programm:
 * [Grokking Deep Reinforcement Learning](https://amzn.to/3A0gEWD)
 
@@ -82,8 +97,11 @@ The Deep Reinforcement Learning Nanodegree program teaches how to train AI agent
 
 ### MLE: Machine Learning Engineer (nd009-ent)
 Recommended time: 3 months, Level: Intermediate
+PREREQUISITES
+* Intermediate Python & Machine Learning Algorithms
+* The Machine Learning Nanodegree program teaches a variety of techniques for modeling real-world data that can be used as standalone products or as part of an end-to-end AI system.
 
-The Machine Learning Nanodegree program teaches a variety of techniques for modeling real-world data that can be used as standalone products or as part of an end-to-end AI system.
+Learn advanced machine learning techniques and algorithms -- including how to package and deploy your models to a production environment.
 
 #### Projects
 * Deploy a Sentiment Analysis Model (Machine Learning in Production)
