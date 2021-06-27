@@ -13,3 +13,12 @@ Tips for the Machine Learning Nanodegree taken from https://github.com/machinele
 * [Machine Learning by Gorgia Tech](https://www.udacity.com/course/machine-learning--ud262): Supervised, Unsupervised & Reinforcement
 * [Reinforcement Learning by Gorgia Tech](https://www.udacity.com/course/reinforcement-learning--ud600): Offered at Georgia Tech as CS 8803
 
+## Additional free content:
+* [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
+* [Intro to Data Science](https://www.udacity.com/course/intro-to-data-science--ud359)
+* [Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
+* [Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600)
+* [Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
+* [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373)
+* [Machine Learning for Trading](https://www.udacity.com/course/machine-learning-for-trading--ud501)
+* [Machine Learning Interview Preparation](https://www.udacity.com/course/machine-learning-interview-prep--ud1001)
