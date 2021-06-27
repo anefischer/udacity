@@ -130,12 +130,8 @@ class NeuralNetwork(object):
         # TODO: Hidden layer - replace these values with the appropriate calculations.
         hidden_inputs = np.dot(features, self.weights_input_to_hidden) # signals into hidden layer
         hidden_outputs = self.activation_function(hidden_inputs) # signals from hidden layer
-        
-        # TODO: Output layer - Replace these values with the appropriate calculations.
-        final_inputs = np.dot(hidden_outputs, self.weights_hidden_to_output)  # signals into final output layer
-        final_outputs = final_inputs # signals from final output layer 
-        
-        return final_outputs
+
+        return np.dot(hidden_outputs, self.weights_hidden_to_output)
 
 
 #########################################################

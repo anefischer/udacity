@@ -97,10 +97,7 @@ class LiteralLayer(BaseLiteralLayer):
     def _negation(self, literalA, literalB):
         """ Return True if two literals are negations of each other """
         # TODO: implment this function
-        if (literalA == ~literalB):
-            return True
-        
-        return False
+        return (literalA == ~literalB)
 
 
 class PlanningGraph:
@@ -205,12 +202,9 @@ class PlanningGraph:
     
         return sum(costs)          
         """
-        # TODO: implement this function
-        costs = []
         self.fill()
-        for goal in self.goal:
-            costs.append(self.level_cost(self, goal))
-        
+        # TODO: implement this function
+        costs = [self.level_cost(self, goal) for goal in self.goal]
         return sum(costs)
 
     def h_maxlevel(self):
@@ -258,12 +252,9 @@ class PlanningGraph:
         return max(costs)  
         
         """
-        # TODO: implement maxlevel heuristic
-        costs = []
         self.fill()
-        for goal in self.goal:
-            costs.append(self.level_cost(self, goal))
-        
+        # TODO: implement maxlevel heuristic
+        costs = [self.level_cost(self, goal) for goal in self.goal]
         return max(costs)
 
     def h_setlevel(self):
@@ -317,13 +308,10 @@ class PlanningGraph:
         self.fill()
         for i, layer in enumerate(self.literal_layers):
             
-            all_goals_met = True
-            for goal in self.goal:
-                if goal not in layer:
-                    all_goals_met = False
+            all_goals_met = all(goal in layer for goal in self.goal)
             if not all_goals_met: 
                 continue
-                
+
             goals_are_mutex = False
             for goalA in self.goal:
                 for goalB in self.goal:
@@ -331,7 +319,7 @@ class PlanningGraph:
                         goals_are_mutex = True
             if not goals_are_mutex:
                 return i
-            
+
         return False
 
     ##############################################################################

@@ -7,14 +7,11 @@ def load_data(messages_filepath, categories_filepath):
     
     # load messages dataset
     messages = pd.read_csv(messages_filepath)
-    
+
     # load categories dataset
     categories = pd.read_csv(categories_filepath)
-    
-    # merge datasets
-    df = pd.merge(messages, categories, on = 'id')
-    
-    return df
+
+    return pd.merge(messages, categories, on = 'id')
     
     
 def clean_data(df):

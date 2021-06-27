@@ -38,12 +38,8 @@ def tokenize(text):
     
     tokens = word_tokenize(text)
     lemmatizer = WordNetLemmatizer()
-    
-    tokens_lemmatizer=[]
-    for token in tokens:
-        tokens_lemmatizer.append(lemmatizer.lemmatize(token).lower().strip())
-        
-    return tokens_lemmatizer
+
+    return [lemmatizer.lemmatize(token).lower().strip() for token in tokens]
 
 
 def build_model():

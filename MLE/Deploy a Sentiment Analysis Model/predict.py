@@ -49,8 +49,7 @@ def model_fn(model_dir):
 def input_fn(serialized_input_data, content_type):
     print('Deserializing the input data.')
     if content_type == 'text/plain':
-        data = serialized_input_data.decode('utf-8')
-        return data
+        return serialized_input_data.decode('utf-8')
     raise Exception('Requested unsupported ContentType in content_type: ' + content_type)
 
 def output_fn(prediction_output, accept):
@@ -61,10 +60,10 @@ def predict_fn(input_data, model):
     print('Inferring sentiment of input data.')
 
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-    
+
     if model.word_dict is None:
         raise Exception('Model has not been loaded properly, no word_dict.')
-    
+
     # TODO: Process input_data so that it is ready to be sent to our model.
     #       You should produce two variables:
     #         data_X   - A sequence of length 500 which represents the converted review
@@ -77,7 +76,7 @@ def predict_fn(input_data, model):
     # that our model expects input data of the form 'len, review[500]'.
     data_pack = np.hstack((data_len, data_X))
     data_pack = data_pack.reshape(1, -1)
-    
+
     data = torch.from_numpy(data_pack)
     data = data.to(device)
 
@@ -88,7 +87,5 @@ def predict_fn(input_data, model):
     #       be a numpy array which contains a single integer which is either 1 or 0
 
     with torch.no_grad():
-        output = model.forward(data)        
-    result = np.round(output.numpy())
-
-    return result
+        output = model.forward(data)
+    return np.round(output.numpy())
