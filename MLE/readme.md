@@ -1,5 +1,5 @@
 
-Tips for the Machine Learning Nanodegree:
+Tips for the Machine Learning Nanodegree taken from https://github.com/machinelearningnanodegree/MLND/wiki/Tips-and-Tricks
 
 ## Data Analysis
 "If you feel like you are being thrown in the deep end with data wrangling and exploratory analysis, we recommend you seriously consider taking a step back and pursuing the Data Analyst Nanodegree (DAND). If you aren’t drowning, but struggling, then consider the following individual courses:"
@@ -13,5 +13,3 @@ Tips for the Machine Learning Nanodegree:
 * [Machine Learning by Gorgia Tech](https://www.udacity.com/course/machine-learning--ud262): Supervised, Unsupervised & Reinforcement
 * [Reinforcement Learning by Gorgia Tech](https://www.udacity.com/course/reinforcement-learning--ud600): Offered at Georgia Tech as CS 8803
 
-
-Source: https://github.com/machinelearningnanodegree/MLND/wiki/Tips-and-Tricks
