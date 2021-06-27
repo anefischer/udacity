@@ -3,7 +3,7 @@ Tips for the Mashine Learning Nanodegree:
 
 ## Data Analysis
 "If you feel like you are being thrown in the deep end with data wrangling and exploratory analysis, we recommend you seriously consider taking a step back and pursuing the Data Analyst Nanodegree (DAND). If you aren’t drowning, but struggling, then consider the following individual courses:"
-* [#intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170): Data Analysis Using NumPy and Pandas
+* [Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170): Data Analysis Using NumPy and Pandas
 * [Intro to Data Science](https://www.udacity.com/course/intro-to-data-science--ud359): Learn What It Takes to Become a Data Scientist
 * [Data Wrangling with MongoDB by mongoDB](https://www.udacity.com/course/data-wrangling-with-mongodb--ud032): Data Manipulation and Retrieval
 
