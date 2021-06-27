@@ -40,8 +40,8 @@ The Data Scientist Nanodegree program builds on the foundation of the Data Analy
 __Recommended time:__ 3 months, __Level:__ Advanced, __Perequisite:__ Algebra, Calculus, Statistics, & Python
 
 The course is based around the book by Peter Norvig who also gives a lot of the lectures within the programm:
-* [Artificial Intelligence: A Modern Approach](https://amzn.to/3x9zn09)
-* [Künstliche Intelligenz: Ein moderner Ansatz](https://amzn.to/3jaDqVx)
+* English: [Artificial Intelligence: A Modern Approach](https://amzn.to/3x9zn09)
+* German: [Künstliche Intelligenz: Ein moderner Ansatz](https://amzn.to/3jaDqVx)
 
 At the end of the course Udacity recommends to take the Deep Learning,  Deep Reinforcement Learning and Machine Learning Engineer Nanodegree Programm. 
 
@@ -55,8 +55,8 @@ At the end of the course Udacity recommends to take the Deep Learning,  Deep Rei
 __Recommended time:__ 4 months, __Level:__ Intermediate, __Perequisite:__ Basic Python
 
 The course recommends the book by Andrew Trask who also gives a lecture within the programm:
-* [Grokking Deep Learning](https://amzn.to/3qqyD3R)
-* [Neuronale Netze und Deep Learning kapieren: Der einfache Praxiseinstieg mit Beispielen in Python](https://amzn.to/3jf0Clt)
+* English: [Grokking Deep Learning](https://amzn.to/3qqyD3R)
+* German: [Neuronale Netze und Deep Learning kapieren: Der einfache Praxiseinstieg mit Beispielen in Python](https://amzn.to/3jf0Clt)
 
 The Deep Learning Nanodegree program introduces key techniques powering many of the most exciting recent advances in AI. You'll learn about various network architectures and applications, with an emphasis on real-world applications.
 
@@ -71,7 +71,7 @@ The Deep Learning Nanodegree program introduces key techniques powering many of 
 __Recommended time:__ 3 months, __Level:__ Advanced, __Perequisite:__ Experience with Python, Probability, Machine Learning, & Deep Learning.
 
 The course recommends the book by Miguel Morales who also gives a lecture within the programm:
-* [Grokking Deep Reinforcement Learning](https://amzn.to/3A0gEWD)
+* nglish: [Grokking Deep Reinforcement Learning](https://amzn.to/3A0gEWD)
 
 The Deep Reinforcement Learning Nanodegree program teaches how to train AI agents to perform a variety of complex tasks.
 
