@@ -9,10 +9,7 @@ I therefor selected the following courses.
 Note: Udacity reviewers give very useful feedback even after successfully passing a project. I am still implementing most of it.
 
 ### DAND: Data Analyst Nanodegree (nd002)
-Recommended time: 4 months, Level: Intermediate
-
-PREREQUISITES
-Python & SQL
+Recommended time: 4 months, Level: Intermediate, Perequisite: Python & SQL
 
 At the end of the course Udacity recommends to take the Data Scientist Nanodegree Programm. 
 
@@ -24,10 +21,7 @@ At the end of the course Udacity recommends to take the Data Scientist Nanodegre
 - Communicate Data Findings (Data Visualization)
 
 ### DSND: Data Scientist Nanodegree (nd025)
-Recommended time: 4 months, Level: Advanced
-
-PREREQUISITES
-Python, SQL & Statistics
+Recommended time: 4 months, Level: Advanced, Perequisite: Python, SQL & Statistics
 
 The Data Scientist Nanodegree program builds on the foundation of the Data Analyst Nanodegree to teach the following skills that companies look for in Data Scientist job candidates:
 * Knowledge of how to build supervised machine learning models and making data-driven solutions
@@ -43,10 +37,7 @@ The Data Scientist Nanodegree program builds on the foundation of the Data Analy
 - Capstone: Dog Project
 
 ### AIND: Artificial Intelligence Nanodegree (nd898)
-Recommended time: 3 months, Level: Advanced
-
-PREREQUISITES
-Algebra, Calculus, Statistics, & Python
+Recommended time: 3 months, Level: Advanced, Perequisite: Algebra, Calculus, Statistics, & Python
 
 The course is based around the book by Peter Norvig who also gives a lot of the lectures withinthe programm:
 * [Artificial Intelligence: A Modern Approach](https://amzn.to/3x9zn09)
@@ -61,10 +52,7 @@ At the end of the course Udacity recommends to take the Deep Learning,  Deep Rei
 - Part of Speech Tagging (Probabilistic Models)
 
 ### DL: Deep Learning (nd101)
-Recommended time: 4 months, Level: Intermediate
-
-PREREQUISITES
-Basic Python
+Recommended time: 4 months, Level: Intermediate, Perequisite: Basic Python
 
 The course recommends the book by Andrew Trask who also gives a lecture within the programm:
 * [Grokking Deep Learning](https://amzn.to/3qqyD3R)
@@ -80,10 +68,7 @@ The Deep Learning Nanodegree program introduces key techniques powering many of 
 * Deploying a Sentiment Analysis Model (Deploying a Model)
 
 ### DRLND: Deep Reinforcement Learning Nanodegree (nd893)
-Recommended time: 3 months, Level: Advanced
-
-PREREQUISITES
-Experience with Python, Probability, Machine Learning, & Deep Learning.
+Recommended time: 3 months, Level: Advanced, Perequisite: Experience with Python, Probability, Machine Learning, & Deep Learning.
 
 The course recommends the book by Miguel Morales who also gives a lecture within the programm:
 * [Grokking Deep Reinforcement Learning](https://amzn.to/3A0gEWD)
@@ -96,10 +81,7 @@ The Deep Reinforcement Learning Nanodegree program teaches how to train AI agent
 * Collaboration and Competition (Multi-Agent Reinforcement Learning)
 
 ### MLE: Machine Learning Engineer (nd009-ent)
-Recommended time: 3 months, Level: Intermediate
-PREREQUISITES
-* Intermediate Python & Machine Learning Algorithms
-* The Machine Learning Nanodegree program teaches a variety of techniques for modeling real-world data that can be used as standalone products or as part of an end-to-end AI system.
+Recommended time: 3 months, Level: Intermediate, Perequisite: Intermediate Python & Machine Learning Algorithms
 
 Learn advanced machine learning techniques and algorithms -- including how to package and deploy your models to a production environment.
 
