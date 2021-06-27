@@ -10,7 +10,9 @@ TEST_CSV = 'data/test_info.csv'
 class AssertTest(object):
     '''Defines general test behavior.'''
     def __init__(self, params):
-        self.assert_param_message = '\n'.join([str(k) + ': ' + str(v) + '' for k, v in params.items()])
+        self.assert_param_message = '\n'.join(
+            str(k) + ': ' + str(v) + '' for k, v in params.items()
+        )
     
     def test(self, assert_condition, assert_message):
         assert assert_condition, assert_message + '\n\nUnit Test Function Parameters\n' + self.assert_param_message
