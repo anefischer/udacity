@@ -9,9 +9,9 @@ Tips for the Mashine Learning Nanodegree:
 
 ## Videos
 "Because the video material for this Nanodegree (ND) is taken from multiple existing Udacity courses, it can seem jarring at times, or missing material. One great option is to just simply watch the entire video series, in their original format, as Udacity Classes."
-* https://www.udacity.com/course/intro-to-machine-learning--ud120
-* https://www.udacity.com/course/machine-learning--ud262
-* https://www.udacity.com/course/reinforcement-learning--ud600
+* [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+* [Machine Learning by GA Tech](https://www.udacity.com/course/machine-learning--ud262)
+* [Reinforcement Learning by GA Tech](https://www.udacity.com/course/reinforcement-learning--ud600)
 
 
 Source: https://github.com/machinelearningnanodegree/MLND/wiki/Tips-and-Tricks
