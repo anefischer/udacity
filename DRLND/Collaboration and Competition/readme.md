@@ -1,1 +1,0 @@
-# Project: Collaboration and Competition
