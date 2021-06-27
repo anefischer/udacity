@@ -30,8 +30,10 @@ The investigation is done according to this sheme:
 * Exploratory Analyses
 * Explanatory Visualization
 
-The results are presentet at medium blog post.
+## Blog Post
 
+The results are presentet at medium blog post:
+* https://nefischer.medium.com/do-it-really-get-up-that-late-c93414728b40
 
 ## Review:
 
