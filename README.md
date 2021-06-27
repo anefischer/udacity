@@ -83,6 +83,10 @@ Recommended time: 3 months, Level: Intermediate
 
 The Machine Learning Nanodegree program teaches a variety of techniques for modeling real-world data that can be used as standalone products or as part of an end-to-end AI system.
 
+#### Projects
+* Deploy a Sentiment Analysis Model (Machine Learning in Production)
+* Plagiarism Detector (Machine Learning, Case Studies)
+
 At the end of the course Udacity recommends:
 * Write a blog post about the course experience or project.
 * Apply to at least two jobs with "machine learning" in the description.
