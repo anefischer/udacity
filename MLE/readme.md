@@ -1,5 +1,5 @@
 
-Tips for the Mashine Learning Nanodegree:
+Tips for the Machine Learning Nanodegree:
 
 ## Data Analysis
 "If you feel like you are being thrown in the deep end with data wrangling and exploratory analysis, we recommend you seriously consider taking a step back and pursuing the Data Analyst Nanodegree (DAND). If you aren’t drowning, but struggling, then consider the following individual courses:"
