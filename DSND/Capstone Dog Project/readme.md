@@ -24,6 +24,10 @@ To train the networks udacity provided bootleneck features which can be download
 * https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz
 * https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogResnet50Data.npz
 
+## Blog Post
+
+The process is presentet at medium blog post:
+* https://nefischer.medium.com/how-to-classify-dog-breeds-using-keras-e0fef63ed76a
 
 ## Review
 
