@@ -22,4 +22,10 @@ There are a few parameters to tweak and play with. But the most important one is
 
 You can copy my files to your workspace and start the training straight out of the notebook. Chears.
 
-
+## Review:
+* The recent achievement of the [Open AI group to play Dota 2](https://blog.openai.com/dota-2/) using Reinforcement Learning is a must read.
+* Tensorflow and PyTorch are the two most competing choices for Deep Learning Applications. It would be good to check Tensorflow or PyTorch : [The Force is Strong with which One?](https://medium.com/@UdacityINDIA/tensorflow-or-pytorch-the-force-is-strong-with-which-one-68226bb7dab4)
+* For additional resources on creating READMEs or using Markdown, see [here](https://www.udacity.com/courses/ud777) and [here](https://guides.github.com/features/mastering-markdown/).
+* An effective way to improve the performance of DDPG is by using Prioritized Experience Replay. You should check this [github repo](https://github.com/rlcode/per) for a fast implementation of Prioritized Experience Replay using a special data structure Sum Tree.
+* As specified in the report, an effective way to improve the performance of DDPG is by using Prioritized Experience Replay. You should check this [github repo](https://github.com/rlcode/per) for a fast implementation of Prioritized Experience Replay using a special data structure Sum Tree.
+* Following posts give an insight into some other reinforcement learning algorithms that can be used to solve the environment: [Proximal Policy Optimization by Open AI](https://blog.openai.com/openai-baselines-ppo/), [Introduction to Various Reinforcement Learning Algorithms. Part II (TRPO, PPO)](https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-part-ii-trpo-ppo-87f2c5919bb9)
