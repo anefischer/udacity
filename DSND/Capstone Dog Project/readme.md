@@ -24,7 +24,12 @@ To train the networks udacity provided bootleneck features which can be download
 * https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz
 * https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogResnet50Data.npz
 
-### Review
+## Blog Post
+
+The final blog post can be found on medium:
+* https://nefischer.medium.com/do-it-really-get-up-that-late-c93414728b40
+
+## Review
 
 * I'd recommend structuring the project writeup so that each rubric item is addressed in its own section (Project Overview, Problem Statement, Metrics etc.). Here's a good example of how this looks: https://medium.com/@gopal.iyer0/robot-motion-planning-dsnd-capstone-project-234252e608b9
 * [Towards Data Science publication on Medium.](https://towardsdatascience.com/)
