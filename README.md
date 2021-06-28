@@ -10,6 +10,8 @@ __Note:__ Udacity reviewers give very useful feedback even after successfully pa
 ### DEND: Data Engineering Nanodegree (nd027)
 __Recommended time:__ 5 months, __Level:__ Intermediate, __Perequisite:__ Intermediate Python & SQL
 
+Data Engineering is the foundation for the new world of Big Data. Enroll now to build production-ready data infrastructure, an essential skill for advancing your data career.
+
 ### DAND: Data Analyst Nanodegree (nd002)
 __Recommended time:__ 4 months, __Level:__ Intermediate, __Perequisite:__ Python & SQL
 
