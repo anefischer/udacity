@@ -15,6 +15,8 @@ Data Engineering is the foundation for the new world of Big Data. Enroll now to 
 ### DAND: Data Analyst Nanodegree (nd002)
 __Recommended time:__ 4 months, __Level:__ Intermediate, __Perequisite:__ Python & SQL
 
+Use Python, SQL, and statistics to uncover insights, communicate critical findings, and create data-driven solutions
+
 At the end of the course Udacity recommends to take the Data Scientist Nanodegree Programm. 
 
 #### Projects
