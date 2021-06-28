@@ -11,6 +11,9 @@ I therefor selected the following courses.
 
 Note: Udacity reviewers give very useful feedback even after successfully passing a project. I am still implementing most of it.
 
+### DEND: Data Engineering Nanodegree (nd027)
+__Recommended time:__ 5 months, __Level:__ Intermediate, __Perequisite:__ Intermediate Python & SQL
+
 ### DAND: Data Analyst Nanodegree (nd002)
 __Recommended time:__ 4 months, __Level:__ Intermediate, __Perequisite:__ Python & SQL
 
@@ -38,9 +41,6 @@ The Data Scientist Nanodegree program builds on the foundation of the Data Analy
 - Disaster Response Pipeline (Data Engineering)
 - Recommendations with IBM (Experimental Design & Recommendations)
 - Capstone: Dog Project
-
-### DEND: Data Engineering Nanodegree (nd027)
-__Recommended time:__ 5 months, __Level:__ Intermediate, __Perequisite:__ Intermediate Python & SQL
 
 ### AIND: Artificial Intelligence Nanodegree (nd898)
 __Recommended time:__ 3 months, __Level:__ Advanced, __Perequisite:__ Algebra, Calculus, Statistics, & Python
