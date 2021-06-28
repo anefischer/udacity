@@ -2,7 +2,7 @@
 
 This is a github repro for the Udacity Nanodegree Programms I haven taken in 2021. It includes all the graded projects. In case you have a question feel free to contact me.
 
-The cumulative effort for the courses is 21 months (based on 10hrs/week). I guess thats about one term at university. 
+The cumulative effort for the courses is 26 months (based on 10hrs/week). I guess thats about one term at university. 
 Without any discount that would have been 9300€ (with discount, diligence and hopefully tax it will be about 300€), which is actually way more than the price of a fuel master degree at GA tech: [OMSCS](https://omscs.gatech.edu).
 
 
