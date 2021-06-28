@@ -1,4 +1,4 @@
-# Udacity Nanodegree Programms es
+# Udacity Nanodegree Programms
 
 This is a github repro for the Udacity Nanodegree Programms I haven taken in 2021. It includes all the graded projects. In case you have a question feel free to contact me.
 
