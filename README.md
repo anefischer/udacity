@@ -5,7 +5,7 @@ This is a github repro for the Udacity Nanodegree Programms I haven taken in 202
 Udacity has a lot of more interessting courses and the options are endless. My goal was to get fast into Data Science and Machine Learning while also understanding the theory behind it. I therefor selected the following courses. The cumulative effort for the courses is 26 months (based on 10hrs/week). I guess thats about one term at university. 
 Without any discount that would have been 9300€ (with discount, diligence and hopefully tax it will be about 270€), which is actually way more than the price of a fuel master degree at GA tech: [OMSCS](https://omscs.gatech.edu).
 
-Note: Udacity reviewers give very useful feedback even after successfully passing a project. I am still implementing most of it.
+__Note:__ Udacity reviewers give very useful feedback even after successfully passing a project. I am still implementing most of it.
 
 ### DEND: Data Engineering Nanodegree (nd027)
 __Recommended time:__ 5 months, __Level:__ Intermediate, __Perequisite:__ Intermediate Python & SQL
