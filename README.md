@@ -12,7 +12,7 @@ __Recommended time:__ 5 months, __Level:__ Intermediate, __Perequisite:__ Interm
 
 Data Engineering is the foundation for the new world of Big Data. It teaches how to build production-ready data infrastructure, an essential skill for advancing a data career.
 
-### DAND: Data Analyst Nanodegree (nd002)
+### [DAND: Data Analyst Nanodegree (nd002)](DAND)
 __Recommended time:__ 4 months, __Level:__ Intermediate, __Perequisite:__ Python & SQL
 
 Use Python, SQL, and statistics to uncover insights, communicate critical findings, and create data-driven solutions
@@ -26,7 +26,7 @@ At the end of the course Udacity recommends to take the Data Scientist Nanodegre
 - Wrangle and Analyze Data (Data Wrangling)
 - Communicate Data Findings (Data Visualization)
 
-### DSND: Data Scientist Nanodegree (nd025)
+### [DSND: Data Scientist Nanodegree (nd025)](DSND)
 __Recommended time:__ 4 months, __Level:__ Advanced, __Perequisite:__ Python, SQL & Statistics
 
 The Data Scientist Nanodegree program builds on the foundation of the Data Analyst Nanodegree to teach the following skills that companies look for in Data Scientist job candidates:
@@ -42,7 +42,7 @@ The Data Scientist Nanodegree program builds on the foundation of the Data Analy
 - Recommendations with IBM (Experimental Design & Recommendations)
 - Capstone: Dog Project
 
-### AIND: Artificial Intelligence Nanodegree (nd898)
+### [AIND: Artificial Intelligence Nanodegree (nd898)](AIND)
 __Recommended time:__ 3 months, __Level:__ Advanced, __Perequisite:__ Algebra, Calculus, Statistics, & Python
 
 The course is based around the book by Peter Norvig who also gives a lot of the lectures within the programm:
@@ -57,7 +57,7 @@ At the end of the course Udacity recommends to take the Deep Learning,  Deep Rei
 - Build an Adversarial Game Playing Agent (Adversarial Search)
 - Part of Speech Tagging (Probabilistic Models)
 
-### DL: Deep Learning (nd101)
+### [DL: Deep Learning (nd101)](DL)
 __Recommended time:__ 4 months, __Level:__ Intermediate, __Perequisite:__ Basic Python
 
 The course recommends the book by Andrew Trask who also gives a lecture within the programm:
@@ -73,7 +73,7 @@ The Deep Learning Nanodegree program introduces key techniques powering many of 
 * Generate Faces (Generative Adversarial Networks)
 * Deploying a Sentiment Analysis Model (Deploying a Model)
 
-### DRLND: Deep Reinforcement Learning Nanodegree (nd893)
+### [DRLND: Deep Reinforcement Learning Nanodegree (nd893)](DRLND)
 __Recommended time:__ 3 months, __Level:__ Advanced, __Perequisite:__ Experience with Python, Probability, Machine Learning, & Deep Learning.
 
 The course recommends the book by Miguel Morales who also gives a lecture within the programm:
@@ -86,7 +86,7 @@ The Deep Reinforcement Learning Nanodegree program teaches how to train AI agent
 * Continuous Control (Policy-Based Methods)
 * Collaboration and Competition (Multi-Agent Reinforcement Learning)
 
-### MLE: Machine Learning Engineer (nd009-ent)
+### [MLE: Machine Learning Engineer (nd009-ent)](MLE)
 __Recommended time:__ 3 months, __Level:__ Intermediate, __Perequisite:__ Intermediate Python & Machine Learning Algorithms
 
 Learn advanced machine learning techniques and algorithms -- including how to package and deploy your models to a production environment.
