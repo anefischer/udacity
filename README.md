@@ -7,7 +7,7 @@ Without any discount that would have been 9300€, which is actually way more th
 
 __Note:__ Udacity reviewers give very useful feedback even after successfully passing a project. I am still implementing most of it.
 
-### DEND: Data Engineering Nanodegree (nd027)
+### [DEND: Data Engineering Nanodegree (nd027)](DEND)
 __Recommended time:__ 5 months, __Level:__ Intermediate, __Perequisite:__ Intermediate Python & SQL
 
 Data Engineering is the foundation for the new world of Big Data. It teaches how to build production-ready data infrastructure, an essential skill for advancing a data career.
