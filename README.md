@@ -39,6 +39,9 @@ The Data Scientist Nanodegree program builds on the foundation of the Data Analy
 - Recommendations with IBM (Experimental Design & Recommendations)
 - Capstone: Dog Project
 
+### DEND: Data Engineering Nanodegree (nd027)
+__Recommended time:__ 5 months, __Level:__ Intermediate, __Perequisite:__ Intermediate Python & SQL
+
 ### AIND: Artificial Intelligence Nanodegree (nd898)
 __Recommended time:__ 3 months, __Level:__ Advanced, __Perequisite:__ Algebra, Calculus, Statistics, & Python
 
