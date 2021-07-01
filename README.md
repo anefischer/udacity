@@ -7,6 +7,8 @@ Without any discount that would have been 9300€ (because of discount, diligenc
 
 __Note:__ Udacity reviewers give very useful feedback even after successfully passing a project. I am still implementing most of it.
 
+![Data Science Hierachy of Needs](/images/hierachy.png)
+
 ### [DEND: Data Engineering Nanodegree (nd027)](DEND)
 __Recommended time:__ 5 months, __Level:__ Intermediate, __Perequisite:__ Intermediate Python & SQL
 
