@@ -2,7 +2,7 @@
 
 This is a github repro for the Udacity Nanodegree Programms I haven taken in 2021. It includes all the graded projects. In case you have a question feel free to contact me.
 
-Udacity has a lot of more interessting courses and the options are endless. My goal was to get fast into Data Science and Machine Learning while also understanding the theory behind it. I therefor selected a hand full of courses. The cumulative effort for the courses is 26 months (based on 10hrs/week). I guess thats about one term at university. 
+Udacity has a lot of more interessting courses and the options are endless. My goal was to get fast into Data Science and Machine Learning while also understanding the theory behind it. I therefor tried to follow "The Data Science Hierachy of Needs". The cumulative effort for the courses is 26 months (based on 10hrs/week). I guess thats about one term at university. 
 Without any discount that would have been 9300€ (because of discount, diligence and hopefully tax refund it will be about 300€), which is actually way more than the price of a full master degree at GA tech: [OMSCS](https://omscs.gatech.edu).
 
 __Note:__ Udacity reviewers give very useful feedback even after successfully passing a project. I am still implementing most of it.
