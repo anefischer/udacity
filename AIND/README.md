@@ -1,4 +1,4 @@
-### [AIND: Artificial Intelligence Nanodegree (nd898)](AIND)
+### AIND: Artificial Intelligence Nanodegree (nd898)
 __Recommended time:__ 3 months, __Level:__ Advanced, __Perequisite:__ Algebra, Calculus, Statistics, & Python
 
 The course is based around the book by Peter Norvig who also gives a lot of the lectures within the programm:
