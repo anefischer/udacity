@@ -9,7 +9,12 @@ The Data Scientist Nanodegree program builds on the foundation of the Data Analy
 * Knowledge of how to design experiments and analyze A/B test results.
 
 #### Projects
-- Data Science Blog Post
-- Disaster Response Pipeline (Data Engineering)
-- Recommendations with IBM (Experimental Design & Recommendations)
-- Capstone: Dog Project
+- [Data Science Blog Post](Data%20Science%20Blog%20Post)
+- [Disaster Response Pipeline (Data Engineering)](Disaster%20Response%20Pipeline)
+- [Recommendations with IBM (Experimental Design & Recommendations)](Recommendations%20with%20IBM)
+- [Capstone: Dog Project](Capstone%20Dog%20Project)
+
+
+
+
+
