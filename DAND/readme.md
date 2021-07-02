@@ -8,7 +8,7 @@ At the end of the course Udacity recommends to take the Data Scientist Nanodegre
 #### Projects
 - [Explore Weather Trends](Explore Weather Trends)
 - [Investigate a Dataset](Investigate a Dataset)
-- [Analyze A/B Test Results (Practical Statistics)]()
+- [Analyze A/B Test Results (Practical Statistics)](Analyze AB Test Results)
 - [Wrangle and Analyze Data (Data Wrangling)](Wrangle and Analyze Data)
 - [Communicate Data Findings (Data Visualization)](Communicate Data Findings)
 
