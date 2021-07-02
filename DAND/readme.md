@@ -6,11 +6,11 @@ Use Python, SQL, and statistics to uncover insights, communicate critical findin
 At the end of the course Udacity recommends to take the Data Scientist Nanodegree Programm. 
 
 #### Projects
-- Explore Weather Trends
-- Investigate a Dataset
-- Analyze A/B Test Results (Practical Statistics)
-- Wrangle and Analyze Data (Data Wrangling)
-- Communicate Data Findings (Data Visualization)
+- [Explore Weather Trends](Explore Weather Trends)
+- [Investigate a Dataset](Investigate a Dataset)
+- [Analyze A/B Test Results (Practical Statistics)]()
+- [Wrangle and Analyze Data (Data Wrangling)](Wrangle and Analyze Data)
+- [Communicate Data Findings (Data Visualization)](Communicate Data Findings)
 
 ## Free Resources:
 * [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
@@ -23,3 +23,10 @@ At the end of the course Udacity recommends to take the Data Scientist Nanodegre
 * [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)
 * [JavaScript Basics](https://www.udacity.com/course/javascript-basics--ud804)
 * [A/B Testing](https://www.udacity.com/course/ab-testing--ud257)
+
+
+
+
+
+
+
