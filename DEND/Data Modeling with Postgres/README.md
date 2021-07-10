@@ -37,3 +37,14 @@ python etl.py
 - dimension table song: songs from the music database
 - dimension table artists: artists from the music database
 - dimension table time: timestamps of records in songplays broken down into specific units.
+
+### Review:
+
+In your free time to dig deeper you can refer to the following resources:
+- [PostgreSQL using Python](https://pynative.com/python-postgresql-tutorial/)
+- [Postgres Quick Start and Best Practices](http://www.jancarloviray.com/blog/postgres-quick-start-and-best-practices/)
+- [Python PostgreSQL CRUD Operations](https://pynative.com/python-postgresql-insert-update-delete-table-data-to-perform-crud-operations/)
+Though the rubric doesn't require you to have Foreign Keys in the fact table, it worth knowing. Take a look at the following resources for further understanding:
+- [Why should I use FOREIGN KEYs in database?](https://softwareengineering.stackexchange.com/questions/375704/why-should-i-use-foreign-keys-in-database)
+- [Foreign Keys in PostgreSQL](https://www.w3resource.com/PostgreSQL/foreign-key-constraint.php)
+Optionally you can read about how to take your project to next level by using COPY command here which explains [fast-load-data-python-postgresql](https://hakibenita.com/fast-load-data-python-postgresql).
