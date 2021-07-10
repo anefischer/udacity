@@ -17,7 +17,8 @@ Data Engineering is the foundation for the new world of Big Data. It teaches how
 - Data Modeling with Postgres
 - Data Modeling with Cassandra
 - Data Warehouse
-
+- Data Lake
+- 
 ### [DAND: Data Analyst Nanodegree (nd002)](DAND)
 __Recommended time:__ 4 months, __Level:__ Intermediate, __Perequisite:__ Python & SQL
 
