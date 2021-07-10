@@ -13,6 +13,11 @@ __Recommended time:__ 5 months, __Level:__ Intermediate, __Perequisite:__ Interm
 
 Data Engineering is the foundation for the new world of Big Data. It teaches how to build production-ready data infrastructure, an essential skill for advancing a data career.
 
+#### Projects
+- Data Modeling with Postgres
+- Data Modeling with Cassandra
+- Data Warehouse
+
 ### [DAND: Data Analyst Nanodegree (nd002)](DAND)
 __Recommended time:__ 4 months, __Level:__ Intermediate, __Perequisite:__ Python & SQL
 
