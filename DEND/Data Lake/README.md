@@ -34,3 +34,22 @@ python etl.py
 - songs: songs from the music database
 - artists: artists from the music database
 - time: timestamps of records in songplays broken down into specific units
+
+
+## Review
+
+A few articles of interest:
+- TOP FIVE DIFFERENCES BETWEEN DATA LAKES AND DATA WAREHOUSES: https://www.blue-granite.com/blog/bid/402596/top-five-differences-between-data-lakes-and-data-warehouses
+- What Is A Data Lake? A Super-Simple Explanation For Anyone: https://www.forbes.com/sites/bernardmarr/2018/08/27/what-is-a-data-lake-a-super-simple-explanation-for-anyone/#4f61b70d76e0
+- When Should We Load Relational Data to a Data Lake?: https://www.sqlchick.com/entries/2018/11/13/when-should-we-load-relational-data-to-a-data-lake
+
+Partitioning helps queries to run much faster. See this article on detailed info on partition, https://mungingdata.com/apache-spark/partitionby/
+
+Refer good READMEs on web:
+- https://github.com/matiassingers/awesome-readme
+- https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project
+- https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3
+- 
+Suggestions:
+- Add a screenshot or an image (ER Diagram) showing how the fact and dimension tables are connected.
+- You can make use of online tools like https://www.lucidchart.com/
