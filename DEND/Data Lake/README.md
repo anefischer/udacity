@@ -2,7 +2,7 @@
 
 This project is part of the Udacity Data Engineering Nanodegree Program.
 
-## Datawarehouse
+## Data Lake
 
 This project is an evolution of the previous projects within the course. 
 An ETL (Extract, Transform and Load) pipeline loads data from S3 transforms it using spark and loads it back to S3.
