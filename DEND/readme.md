@@ -6,11 +6,11 @@ Data Engineering is the foundation for the new world of Big Data. It teaches how
 
 ## Projects
 
-Data Modeling with Postgres
-Data Modeling with Cassandra
-Data Warehouse
-Data Lake
-Data Pipelines with Airflow
+- Data Modeling with Postgres
+- Data Modeling with Cassandra
+- Data Warehouse
+- Data Lake
+- Data Pipelines with Airflow
 
 
 ## Free Content based on Data Structures and Algorithms Nanodegree:
