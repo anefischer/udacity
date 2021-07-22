@@ -11,7 +11,7 @@ Data Engineering is the foundation for the new world of Big Data. It teaches how
 - Data Warehouse
 - Data Lake
 - Data Pipelines with Airflow
-
+- Capstone Project
 
 ## Free Content based on Data Structures and Algorithms Nanodegree:
 * [Data Structures and Algorithms in Python](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
