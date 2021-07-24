@@ -10,8 +10,8 @@ The Deep Learning Nanodegree program introduces key techniques powering many of 
 
 
 #### Projects:
-* [Predicting Bike-Sharing Patterns](DL/Predicting%20Bike-Sharing%20Patterns) (Neural Networks)
-* [Landmark Classification & Tagging for Social Media](DL/Landmark%20Classification%20%26%20Tagging%20for%20Social%20Media) (Convolutional Neural Networks)
-* [Generate TV Scripts](DL/Generate%20TV%20Scripts) (Recurrent Neural Networks)
-* [Generate Faces](DL/Generate%20Faces) (Generative Adversarial Networks)
-* [Deploying a Sentiment Analysis Model](DL/Deploying%20a%20Sentiment%20Analysis%20Model) (Deploying a Model)
+* [Predicting Bike-Sharing Patterns](Predicting%20Bike-Sharing%20Patterns) (Neural Networks)
+* [Landmark Classification & Tagging for Social Media](Landmark%20Classification%20%26%20Tagging%20for%20Social%20Media) (Convolutional Neural Networks)
+* [Generate TV Scripts](Generate%20TV%20Scripts) (Recurrent Neural Networks)
+* [Generate Faces](Generate%20Faces) (Generative Adversarial Networks)
+* [Deploying a Sentiment Analysis Model](Deploying%20a%20Sentiment%20Analysis%20Model) (Deploying a Model)
