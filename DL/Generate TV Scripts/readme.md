@@ -1,5 +1,18 @@
 # Project: Generate TV Scripts
 
+## Introduction
+In this project, you'll generate your own Seinfeld TV scripts using RNNs. You'll be using a Seinfeld dataset of scripts from 9 seasons. The Neural Network you'll build will generate a new, "fake" TV script.
+
+## Getting the project files
+The project files can be found in our [public GitHub repo](https://github.com/udacity/deep-learning-v2-pytorch), in the `<project-tv-script-generation>` folder. You can download the files from there, but it's better to clone the repository to your computer using:
+```
+git clone https://github.com/udacity/deep-learning-v2-pytorch.git
+```
+
+This way you can stay up to date with any changes we make by pulling the changes to your local repository with git pull.
+
+You may also choose to complete your project using the provided, in-classroom project notebook; this will just require that you run the project notebook, and download the complete files, as specified below.
+
 ## Review:
 * Consider using [Python assertions](https://realpython.com/lessons/assertions/) for sanity testing - assertions are great for catching bugs. This is especially true of a dynamically type-checked language like Python where a wrong variable type or shape can cause errors at runtime
 * Logging is important for long-running applications. Logging done right produces a report that can be analyzed to debug errors and find crucial information. There could be different levels of logging or logging tags that can be used to filter messages most relevant to someone. Messages can be written to the terminal using print() or saved to file, for example using the [Logger module](https://docs.python.org/3/library/logging.html). Sometimes it's worthwhile to catch and log exceptions during a long-running operation so that the operation itself is not aborted.
