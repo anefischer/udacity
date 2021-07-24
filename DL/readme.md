@@ -8,16 +8,10 @@ The course recommends the book by Andrew Trask who also gives a lecture within t
 
 The Deep Learning Nanodegree program introduces key techniques powering many of the most exciting recent advances in AI. You'll learn about various network architectures and applications, with an emphasis on real-world applications.
 
-#### Books:
-
-Following books are reccomended:
-- Grokking Deep Learning by Andrew Trask. This provides a very gentle introduction to Deep Learning and covers the intuition more than the theory.
-- Neural Networks And Deep Learning by Michael Nielsen. This book is more rigorous than Grokking Deep Learning and includes a lot of fun, interactive visualizations to play with.
-- The Deep Learning Textbook from Ian Goodfellow, Yoshua Bengio, and Aaron Courville. This online book contains a lot of material and is the most rigorous of the three books suggested.
 
 #### Projects:
-* Predicting Bike-Sharing Patterns (Neural Networks)
-* Landmark Classification & Tagging for Social Media (Convolutional Neural Networks)
-* Generate TV Scripts (Recurrent Neural Networks)
-* Generate Faces (Generative Adversarial Networks)
-* Deploying a Sentiment Analysis Model (Deploying a Model)
+* [Predicting Bike-Sharing Patterns](DL/Predicting%20Bike-Sharing%20Patterns) (Neural Networks)
+* [Landmark Classification & Tagging for Social Media](DL/Landmark%20Classification%20%26%20Tagging%20for%20Social%20Media) (Convolutional Neural Networks)
+* [Generate TV Scripts](DL/Generate%20TV%20Scripts) (Recurrent Neural Networks)
+* [Generate Faces](DL/Generate%20Faces) (Generative Adversarial Networks)
+* [Deploying a Sentiment Analysis Model](DL/Deploying%20a%20Sentiment%20Analysis%20Model) (Deploying a Model)
