@@ -4,6 +4,8 @@ This is a github repro for the Udacity Nanodegree Programms I haven taken in 202
 
 Udacity has a lot of more interessting courses and the options are endless. My goal was to get fast into Data Science and Machine Learning while also understanding the theory behind it. I therefor tried to follow "The Data Science Hierachy of Needs" from bottom to top and selected courses related to the topics. The cumulative effort for the courses is 26 months (based on 10hrs/week). 
 
+[ToC]
+
 __Note:__ Udacity reviewers give very useful feedback even after successfully passing a project. I am still implementing most of it.
 
 ![Data Science Hierachy of Needs](/images/hierachy.png)
