@@ -102,6 +102,7 @@ Learn advanced machine learning techniques and algorithms -- including how to pa
 #### Projects
 * Deploy a Sentiment Analysis Model (Machine Learning in Production)
 * Plagiarism Detector (Machine Learning, Case Studies)
+* Capstone: Dog Project
 
 At the end of the course Udacity recommends:
 * Write a blog post about the course experience or project.
