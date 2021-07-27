@@ -1,4 +1,18 @@
 
+### [MLE: Machine Learning Engineer (nd009-ent)](MLE)
+__Recommended time:__ 3 months, __Level:__ Intermediate, __Perequisite:__ Intermediate Python & Machine Learning Algorithms
+
+Learn advanced machine learning techniques and algorithms -- including how to package and deploy your models to a production environment.
+
+#### Projects
+* [Deploy a Sentiment Analysis Model](Deploy%20a%20Sentiment%20Analysis%20Model) (Machine Learning in Production)
+* [Plagiarism Detector](Plagiarism%20Detector) (Machine Learning, Case Studies)
+* [Capstone: Dog Project](Capstone%20Dog%20Project)
+
+At the end of the course Udacity recommends:
+* Write a blog post about the course experience or project.
+* Apply to at least two jobs with "machine learning" in the description.
+
 Tips for the Machine Learning Nanodegree taken from https://github.com/machinelearningnanodegree/MLND/wiki/Tips-and-Tricks
 
 ## Data Analysis
