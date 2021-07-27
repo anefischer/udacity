@@ -17,6 +17,7 @@ The plain workspace can be cloned from udacity:
 
 The images from the dogs and humans to train the networks can be downloaded from the following links and need to be placed in the “dog_images”-folder:
 * https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip
+*
 * http://vis-www.cs.umass.edu/lfw/lfw.tgz
 
 To train the networks udacity provided bootleneck features which can be downloaded from the following links and need to be placed in the “bottleneck_features”-folder:
