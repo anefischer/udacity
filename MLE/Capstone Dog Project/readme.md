@@ -20,3 +20,7 @@ The images from the dogs and humans to train the networks can be downloaded from
 * http://vis-www.cs.umass.edu/lfw/lfw.tgz
 
 
+## Review
+
+* Here a useful reference about [Choosing the Right Metric for Evaluating Machine Learning Models](https://www.kdnuggets.com/2018/04/right-metric-evaluating-machine-learning-models-1.html).
+* And here an article that discusses [What metrics should be used for evaluating a model on an imbalanced data set](https://towardsdatascience.com/what-metrics-should-we-use-on-imbalanced-data-set-precision-recall-roc-e2e79252aeba)
