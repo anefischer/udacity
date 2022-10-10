@@ -1,5 +1,5 @@
 
-### [MLE: Machine Learning Engineer (nd009-ent)](MLE)
+### MLE: Machine Learning Engineer (nd009-ent)
 __Recommended time:__ 3 months, __Level:__ Intermediate, __Perequisite:__ Intermediate Python & Machine Learning Algorithms
 
 Learn advanced machine learning techniques and algorithms -- including how to package and deploy your models to a production environment.
