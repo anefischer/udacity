@@ -98,8 +98,18 @@ The Deep Learning Nanodegree program introduces key techniques powering many of 
 ### [CVND: Computer Vision Nanodegree  (nd891 v7.0.3)](CVND)
 __Recommended time:__ 3 months, __Level:__ Advanced, __Perequisite:__ Python, Statistics, Machine Learning, & Deep Learning
 
+#### Projects
+* Facial Keypoint Detection
+* Automatic Image Captioning
+* Landmark Detection and Tracking
+
 ### [NLPND: Natural Language Processing Nanodegree (nd892 v4.0.2)](NLPND)
 __Recommended time:__ 3 months, __Level:__ Advanced, __Perequisite:__ Python, Statistics, Machine Learning, & Deep Learning
+
+#### Projects
+* Part of Speech Tagging
+* Machine Translation
+* Speech Recognizer
 
 ### [DRLND: Deep Reinforcement Learning Nanodegree (nd893 v2.0.0)](DRLND)
 __Recommended time:__ 3 months, __Level:__ Advanced, __Perequisite:__ Experience with Python, Probability, Machine Learning, & Deep Learning.
