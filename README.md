@@ -65,6 +65,10 @@ At the end of the course Udacity recommends to take the Deep Learning,  Deep Rei
 - Build an Adversarial Game Playing Agent (Adversarial Search)
 - Part of Speech Tagging (Probabilistic Models)
 
+### [CVND: Computer Vision Nanodegree  (nd891 v7.0.3)](CVND)
+
+### [NLPND: Natural Language Processing Nanodegree (nd892 v4.0.2)](NLPND)
+
 ### [DL: Deep Learning (nd101 v8.0.0)](DL)
 __Recommended time:__ 4 months, __Level:__ Intermediate, __Perequisite:__ Basic Python
 
