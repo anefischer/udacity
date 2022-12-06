@@ -1,3 +1,5 @@
+Outdated: Udacity updated this ND a lot.
+
 ### DL: Deep Learning (nd101)
 __Recommended time:__ 4 months, __Level:__ Intermediate, __Perequisite:__ Basic Python
 
