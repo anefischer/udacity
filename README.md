@@ -50,20 +50,6 @@ The Data Scientist Nanodegree program builds on the foundation of the Data Analy
 - Recommendations with IBM (Experimental Design & Recommendations)
 - Capstone: Dog Project
 
-### [MLE: Machine Learning Engineer (nd009-ent v4.0.0)](MLE)
-__Recommended time:__ 3 months, __Level:__ Intermediate, __Perequisite:__ Intermediate Python & Machine Learning Algorithms
-
-Learn advanced machine learning techniques and algorithms -- including how to package and deploy your models to a production environment.
-
-#### Projects
-* Deploy a Sentiment Analysis Model (Machine Learning in Production)
-* Plagiarism Detector (Machine Learning, Case Studies)
-* Capstone: Dog Project
-
-At the end of the course Udacity recommends:
-* Write a blog post about the course experience or project.
-* Apply to at least two jobs with "machine learning" in the description.
-
 ### [AIND: Artificial Intelligence Nanodegree (nd898 v3.0.0)](AIND)
 __Recommended time:__ 3 months, __Level:__ Advanced, __Perequisite:__ Algebra, Calculus, Statistics, & Python
 
@@ -124,4 +110,16 @@ The Deep Reinforcement Learning Nanodegree program teaches how to train AI agent
 * Continuous Control (Policy-Based Methods)
 * Collaboration and Competition (Multi-Agent Reinforcement Learning)
 
+### [MLE: Machine Learning Engineer (nd009-ent v4.0.0)](MLE)
+__Recommended time:__ 3 months, __Level:__ Intermediate, __Perequisite:__ Intermediate Python & Machine Learning Algorithms
 
+Learn advanced machine learning techniques and algorithms -- including how to package and deploy your models to a production environment.
+
+#### Projects
+* Deploy a Sentiment Analysis Model (Machine Learning in Production)
+* Plagiarism Detector (Machine Learning, Case Studies)
+* Capstone: Dog Project
+
+At the end of the course Udacity recommends:
+* Write a blog post about the course experience or project.
+* Apply to at least two jobs with "machine learning" in the description.
