@@ -50,6 +50,20 @@ The Data Scientist Nanodegree program builds on the foundation of the Data Analy
 - Recommendations with IBM (Experimental Design & Recommendations)
 - Capstone: Dog Project
 
+### [MLE: Machine Learning Engineer (nd009-ent v4.0.0)](MLE)
+__Recommended time:__ 3 months, __Level:__ Intermediate, __Perequisite:__ Intermediate Python & Machine Learning Algorithms
+
+Learn advanced machine learning techniques and algorithms -- including how to package and deploy your models to a production environment.
+
+#### Projects
+* Deploy a Sentiment Analysis Model (Machine Learning in Production)
+* Plagiarism Detector (Machine Learning, Case Studies)
+* Capstone: Dog Project
+
+At the end of the course Udacity recommends:
+* Write a blog post about the course experience or project.
+* Apply to at least two jobs with "machine learning" in the description.
+
 ### [AIND: Artificial Intelligence Nanodegree (nd898 v3.0.0)](AIND)
 __Recommended time:__ 3 months, __Level:__ Advanced, __Perequisite:__ Algebra, Calculus, Statistics, & Python
 
@@ -64,10 +78,6 @@ At the end of the course Udacity recommends to take the Deep Learning,  Deep Rei
 - Build a Forward-Planning Agent (Automated Planning)
 - Build an Adversarial Game Playing Agent (Adversarial Search)
 - Part of Speech Tagging (Probabilistic Models)
-
-### [CVND: Computer Vision Nanodegree  (nd891 v7.0.3)](CVND)
-
-### [NLPND: Natural Language Processing Nanodegree (nd892 v4.0.2)](NLPND)
 
 ### [DL: Deep Learning (nd101 v8.0.0)](DL)
 __Recommended time:__ 4 months, __Level:__ Intermediate, __Perequisite:__ Basic Python
@@ -85,6 +95,12 @@ The Deep Learning Nanodegree program introduces key techniques powering many of 
 * [Generate Faces](DL/Generate%20Faces) (Generative Adversarial Networks)
 * [Deploying a Sentiment Analysis Model](DL/Deploying%20a%20Sentiment%20Analysis%20Model) (Deploying a Model)
 
+### [CVND: Computer Vision Nanodegree  (nd891 v7.0.3)](CVND)
+__Recommended time:__ 3 months, __Level:__ Advanced, __Perequisite:__ Python, Statistics, Machine Learning, & Deep Learning
+
+### [NLPND: Natural Language Processing Nanodegree (nd892 v4.0.2)](NLPND)
+__Recommended time:__ 3 months, __Level:__ Advanced, __Perequisite:__ Python, Statistics, Machine Learning, & Deep Learning
+
 ### [DRLND: Deep Reinforcement Learning Nanodegree (nd893 v2.0.0)](DRLND)
 __Recommended time:__ 3 months, __Level:__ Advanced, __Perequisite:__ Experience with Python, Probability, Machine Learning, & Deep Learning.
 
@@ -98,16 +114,4 @@ The Deep Reinforcement Learning Nanodegree program teaches how to train AI agent
 * Continuous Control (Policy-Based Methods)
 * Collaboration and Competition (Multi-Agent Reinforcement Learning)
 
-### [MLE: Machine Learning Engineer (nd009-ent v4.0.0)](MLE)
-__Recommended time:__ 3 months, __Level:__ Intermediate, __Perequisite:__ Intermediate Python & Machine Learning Algorithms
 
-Learn advanced machine learning techniques and algorithms -- including how to package and deploy your models to a production environment.
-
-#### Projects
-* Deploy a Sentiment Analysis Model (Machine Learning in Production)
-* Plagiarism Detector (Machine Learning, Case Studies)
-* Capstone: Dog Project
-
-At the end of the course Udacity recommends:
-* Write a blog post about the course experience or project.
-* Apply to at least two jobs with "machine learning" in the description.
