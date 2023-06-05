@@ -64,21 +64,7 @@ After completing this course, you can further your learning with the Nanodegree 
 - Build an Adversarial Game Playing Agent (Adversarial Search)
 - Part of Speech Tagging (Probabilistic Models)
 
-### [DL: Deep Learning (nd101 v8.0.0)](DL)
-__Recommended time:__ 4 months, __Level:__ Intermediate, __Perequisite:__ Basic Python
-
-The course recommends the book by Andrew Trask who also gives a lecture on Sentiment Analysis:
-* English: [Grokking Deep Learning](https://amzn.to/3qqyD3R)
-* German: [Neuronale Netze und Deep Learning kapieren: Der einfache Praxiseinstieg mit Beispielen in Python](https://amzn.to/3jf0Clt)
-
-The Deep Learning Nanodegree program teaches you how to use key techniques that power many of the most innovative AI solutions. You’ll explore different network architectures and applications, such as computer vision, natural language processing, and generative models, with a focus on practical examples.
-
-#### Projects:
-* [Predicting Bike-Sharing Patterns](DL/Predicting%20Bike-Sharing%20Patterns) (Neural Networks)
-* [Landmark Classification & Tagging for Social Media](DL/Landmark%20Classification%20%26%20Tagging%20for%20Social%20Media) (Convolutional Neural Networks)
-* [Generate TV Scripts](DL/Generate%20TV%20Scripts) (Recurrent Neural Networks)
-* [Generate Faces](DL/Generate%20Faces) (Generative Adversarial Networks)
-* [Deploying a Sentiment Analysis Model](DL/Deploying%20a%20Sentiment%20Analysis%20Model) (Deploying a Model)
+This Nanodegree Program used to have two terms: a basic one and a specialization in either computer vision or natural language processing. Now, these are two separate Nanodegree Programs.
 
 ### [CVND: Computer Vision Nanodegree  (nd891 v7.0.3)](CVND)
 __Recommended time:__ 3 months, __Level:__ Advanced, __Perequisite:__ Python, Statistics, Machine Learning, & Deep Learning
@@ -95,6 +81,22 @@ __Recommended time:__ 3 months, __Level:__ Advanced, __Perequisite:__ Python, St
 * Part of Speech Tagging
 * Machine Translation
 * Speech Recognizer
+
+### [DL: Deep Learning (nd101 v8.0.0)](DL)
+__Recommended time:__ 4 months, __Level:__ Intermediate, __Perequisite:__ Basic Python
+
+The course recommends the book by Andrew Trask who also gives a lecture on Sentiment Analysis:
+* English: [Grokking Deep Learning](https://amzn.to/3qqyD3R)
+* German: [Neuronale Netze und Deep Learning kapieren: Der einfache Praxiseinstieg mit Beispielen in Python](https://amzn.to/3jf0Clt)
+
+The Deep Learning Nanodegree program teaches you how to use key techniques that power many of the most innovative AI solutions. You’ll explore different network architectures and applications, such as computer vision, natural language processing, and generative models, with a focus on practical examples.
+
+#### Projects:
+* [Predicting Bike-Sharing Patterns](DL/Predicting%20Bike-Sharing%20Patterns) (Neural Networks)
+* [Landmark Classification & Tagging for Social Media](DL/Landmark%20Classification%20%26%20Tagging%20for%20Social%20Media) (Convolutional Neural Networks)
+* [Generate TV Scripts](DL/Generate%20TV%20Scripts) (Recurrent Neural Networks)
+* [Generate Faces](DL/Generate%20Faces) (Generative Adversarial Networks)
+* [Deploying a Sentiment Analysis Model](DL/Deploying%20a%20Sentiment%20Analysis%20Model) (Deploying a Model)
 
 ### [DRLND: Deep Reinforcement Learning Nanodegree (nd893 v2.0.0)](DRLND)
 __Recommended time:__ 3 months, __Level:__ Advanced, __Perequisite:__ Experience with Python, Probability, Machine Learning, & Deep Learning.
