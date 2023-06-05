@@ -37,12 +37,11 @@ After completing this course, you can advance your skills with the Data Scientis
 ### [DSND: Data Scientist Nanodegree (nd025 v3.0.1)](DSND)
 __Recommended time:__ 4 months, __Level:__ Advanced, __Perequisite:__ Python, SQL & Statistics
 
-The Data Scientist Nanodegree program builds on the foundation of the Data Analyst Nanodegree to teach the following skills that companies look for in Data Scientist job candidates:
-* Knowledge of how to build supervised machine learning models and making data-driven solutions
-* Strong understanding of neural networks, deep learning, and PyTorch
-* Ability to build unsupervised machine learning models
-* Software engineering and data engineering skills
-* Knowledge of how to design experiments and analyze A/B test results.
+The Data Scientist Nanodegree program teaches you the skills that employers look for in Data Scientist candidates, such as:
+* Building supervised and unsupervised machine learning models
+* Understanding neural networks, deep learning, and PyTorch
+* Applying software engineering and data engineering principles
+* Designing experiments and analyzing A/B test results
 
 #### Projects
 - Data Science Blog Post
@@ -53,7 +52,7 @@ The Data Scientist Nanodegree program builds on the foundation of the Data Analy
 ### [AIND: Artificial Intelligence Nanodegree (nd898 v3.0.0)](AIND)
 __Recommended time:__ 3 months, __Level:__ Advanced, __Perequisite:__ Algebra, Calculus, Statistics, & Python
 
-The course is based around the book by Peter Norvig who also gives a lot of the lectures within the programm:
+The course follows the book by Peter Norvig, who also delivers many of the lectures in the program:
 * English: [Artificial Intelligence: A Modern Approach](https://amzn.to/3x9zn09)
 * German: [Künstliche Intelligenz: Ein moderner Ansatz](https://amzn.to/3jaDqVx)
 
