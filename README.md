@@ -1,17 +1,17 @@
 # Udacity Nanodegree Programms
 
-This is a github repro for the Udacity Nanodegree Programms I haven taken in 2021. It includes all the graded projects. In case you have a question feel free to contact me.
+This repository contains all the graded projects I completed for the Udacity Nanodegree Programs in 2021. If you have any questions, please feel free to contact me.
 
-Udacity has a lot of more interessting courses and the options are endless. My goal was to get fast into Data Science and Machine Learning while also understanding the theory behind it. I therefor tried to follow "The Data Science Hierachy of Needs" from bottom to top and selected courses related to the topics. The cumulative effort for the courses is 26 months (based on 10hrs/week). 
+I chose Udacity because it offers many interesting courses and endless possibilities. My goal was to learn Data Science and Machine Learning with a solid theoretical foundation. I followed “The Data Science Hierarchy of Needs” from bottom to top and selected courses related to each topic. The total duration of the courses is 26 months (assuming 10 hours/week).
 
-__Note:__ Udacity reviewers give very useful feedback even after successfully passing a project. I am still implementing most of it.
+__Note:__ Udacity reviewers provide valuable feedback even after passing a project. I am still working on implementing most of it.
 
 ![Data Science Hierachy of Needs](/images/hierachy.png)
 
 ### [DEND: Data Engineering Nanodegree (nd027 v5.0.0)](DEND)
 __Recommended time:__ 5 months, __Level:__ Intermediate, __Perequisite:__ Intermediate Python & SQL
 
-Data Engineering is the foundation for the new world of Big Data. It teaches how to build production-ready data infrastructure, an essential skill for advancing a data career.
+Data Engineering enables you to harness the power of Big Data. You will learn how to create reliable and scalable data infrastructure, a key skill for advancing in the data field.
 
 #### Projects
 - Data Modeling with Postgres
@@ -23,9 +23,9 @@ Data Engineering is the foundation for the new world of Big Data. It teaches how
 ### [DAND: Data Analyst Nanodegree (nd002 v11.0.0)](DAND)
 __Recommended time:__ 4 months, __Level:__ Intermediate, __Perequisite:__ Python & SQL
 
-Use Python, SQL, and statistics to uncover insights, communicate critical findings, and create data-driven solutions
+Learn to use Python, SQL, and statistics to find insights, communicate critical results, and create data-driven solutions. 
 
-At the end of the course Udacity recommends to take the Data Scientist Nanodegree Programm. 
+After completing this course, you can advance your skills with the Data Scientist Nanodegree Program.
 
 #### Projects
 - Explore Weather Trends
@@ -57,7 +57,7 @@ The course is based around the book by Peter Norvig who also gives a lot of the 
 * English: [Artificial Intelligence: A Modern Approach](https://amzn.to/3x9zn09)
 * German: [Künstliche Intelligenz: Ein moderner Ansatz](https://amzn.to/3jaDqVx)
 
-At the end of the course Udacity recommends to take the Deep Learning,  Deep Reinforcement Learning and Machine Learning Engineer Nanodegree Programm. 
+After completing this course, you can further your learning with the Nanodegree Programs in Deep Learning, Deep Reinforcement Learning, and Machine Learning Engineering.
 
 #### Projects
 - Build a Sudoku Solver
@@ -72,7 +72,7 @@ The course recommends the book by Andrew Trask who also gives a lecture on Senti
 * English: [Grokking Deep Learning](https://amzn.to/3qqyD3R)
 * German: [Neuronale Netze und Deep Learning kapieren: Der einfache Praxiseinstieg mit Beispielen in Python](https://amzn.to/3jf0Clt)
 
-The Deep Learning Nanodegree program introduces key techniques powering many of the most exciting recent advances in AI. You'll learn about various network architectures and applications, with an emphasis on real-world applications.
+The Deep Learning Nanodegree program teaches you how to use key techniques that power many of the most innovative AI solutions. You’ll explore different network architectures and applications, such as computer vision, natural language processing, and generative models, with a focus on practical examples.
 
 #### Projects:
 * [Predicting Bike-Sharing Patterns](DL/Predicting%20Bike-Sharing%20Patterns) (Neural Networks)
@@ -103,7 +103,7 @@ __Recommended time:__ 3 months, __Level:__ Advanced, __Perequisite:__ Experience
 The course recommends the book by Miguel Morales who also gives a lecture on Actor-Critic Methods:
 * English: [Grokking Deep Reinforcement Learning](https://amzn.to/3A0gEWD)
 
-The Deep Reinforcement Learning Nanodegree program teaches how to train AI agents to perform a variety of complex tasks.
+The Deep Reinforcement Learning Nanodegree program shows you how to teach AI agents to master challenging tasks, such as playing games, controlling robots, and optimizing systems. You’ll learn the latest algorithms and techniques in this rapidly evolving field.
 
 #### Projects
 * Navigation (Value-Based Methods)
@@ -113,7 +113,7 @@ The Deep Reinforcement Learning Nanodegree program teaches how to train AI agent
 ### [MLE: Machine Learning Engineer (nd009-ent v4.0.0)](MLE)
 __Recommended time:__ 3 months, __Level:__ Intermediate, __Perequisite:__ Intermediate Python & Machine Learning Algorithms
 
-Learn advanced machine learning techniques and algorithms -- including how to package and deploy your models to a production environment.
+Master advanced machine learning techniques and algorithms, and learn how to deploy your models to production.
 
 #### Projects
 * Deploy a Sentiment Analysis Model (Machine Learning in Production)
