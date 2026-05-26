@@ -1,9 +1,9 @@
 Outdated: Udacity updated this ND a lot.
 
 ### DL: Deep Learning (nd101)
-__Recommended time:__ 4 months, __Level:__ Intermediate, __Perequisite:__ Basic Python
+__Recommended time:__ 4 months, __Level:__ Intermediate, __Prerequisite:__ Basic Python
 
-The course recommends the book by Andrew Trask who also gives a lecture within the programm:
+The course recommends the book by Andrew Trask who also gives a lecture within the program:
 * English: [Grokking Deep Learning](https://amzn.to/3qqyD3R)
 * German: [Neuronale Netze und Deep Learning kapieren: Der einfache Praxiseinstieg mit Beispielen in Python](https://amzn.to/3jf0Clt)
 

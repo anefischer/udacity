@@ -1,5 +1,5 @@
 ### DSND: Data Scientist Nanodegree (nd025)
-__Recommended time:__ 4 months, __Level:__ Advanced, __Perequisite:__ Python, SQL & Statistics
+__Recommended time:__ 4 months, __Level:__ Advanced, __Prerequisite:__ Python, SQL & Statistics
 
 The Data Scientist Nanodegree program builds on the foundation of the Data Analyst Nanodegree to teach the following skills that companies look for in Data Scientist job candidates:
 * Knowledge of how to build supervised machine learning models and making data-driven solutions

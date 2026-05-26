@@ -1,6 +1,6 @@
-# Udacity Data Scientist Nanodegree Programm
+# Udacity Data Scientist Nanodegree Program
 
-This project is part of the Udacity Data Scientist Nanodegree Programm
+This project is part of the Udacity Data Scientist Nanodegree Program
 
 ## Analyzing Stack Overflow Survey Data
 Every year, Stack Overflow conducts a massive survey of people on the site, covering all sorts of information like programming languages, salary, code style and various other information. In the year 2017, they amassed more than 64,000 responses fielded from 213 countries. The data is downloaded from kaggle:

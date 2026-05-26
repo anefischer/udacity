@@ -1,4 +1,4 @@
-# Udacity Nanodegree Programms
+# Udacity Nanodegree Programs
 
 This repository contains all the graded projects I completed for the Udacity Nanodegree Programs in 2021. If you have any questions, please feel free to contact me.
 
@@ -9,7 +9,7 @@ __Note:__ Udacity reviewers provide valuable feedback even after passing a proje
 ![Data Science Hierachy of Needs](/images/hierachy.png)
 
 ### [DEND: Data Engineering Nanodegree (nd027 v5.0.0)](DEND)
-__Recommended time:__ 5 months, __Level:__ Intermediate, __Perequisite:__ Intermediate Python & SQL
+__Recommended time:__ 5 months, __Level:__ Intermediate, __Prerequisite:__ Intermediate Python & SQL
 
 Data Engineering enables you to harness the power of Big Data. You will learn how to create reliable and scalable data infrastructure, a key skill for advancing in the data field.
 
@@ -19,9 +19,10 @@ Data Engineering enables you to harness the power of Big Data. You will learn ho
 - Data Warehouse
 - Data Lake
 - Data Pipelines with Airflow
+- Capstone Project
 
 ### [DAND: Data Analyst Nanodegree (nd002 v11.0.0)](DAND)
-__Recommended time:__ 4 months, __Level:__ Intermediate, __Perequisite:__ Python & SQL
+__Recommended time:__ 4 months, __Level:__ Intermediate, __Prerequisite:__ Python & SQL
 
 Learn to use Python, SQL, and statistics to find insights, communicate critical results, and create data-driven solutions. 
 
@@ -35,7 +36,7 @@ After completing this course, you can advance your skills with the Data Scientis
 - Communicate Data Findings (Data Visualization)
 
 ### [DSND: Data Scientist Nanodegree (nd025 v3.0.1)](DSND)
-__Recommended time:__ 4 months, __Level:__ Advanced, __Perequisite:__ Python, SQL & Statistics
+__Recommended time:__ 4 months, __Level:__ Advanced, __Prerequisite:__ Python, SQL & Statistics
 
 The Data Scientist Nanodegree program teaches you the skills that employers look for in Data Scientist candidates, such as:
 * Building supervised and unsupervised machine learning models
@@ -50,7 +51,7 @@ The Data Scientist Nanodegree program teaches you the skills that employers look
 - Capstone: Dog Project
 
 ### [AIND: Artificial Intelligence Nanodegree (nd898 v3.0.0)](AIND)
-__Recommended time:__ 3 months, __Level:__ Advanced, __Perequisite:__ Algebra, Calculus, Statistics, & Python
+__Recommended time:__ 3 months, __Level:__ Advanced, __Prerequisite:__ Algebra, Calculus, Statistics, & Python
 
 The course follows the book by Peter Norvig, who also delivers many of the lectures in the program:
 * English: [Artificial Intelligence: A Modern Approach](https://amzn.to/3x9zn09)
@@ -67,7 +68,7 @@ After completing this course, you can further your learning with the Nanodegree 
 This Nanodegree Program used to have two terms: a basic one and a specialization in either computer vision or natural language processing. Now, these are two separate Nanodegree Programs.
 
 ### [CVND: Computer Vision Nanodegree  (nd891 v7.0.3)](CVND)
-__Recommended time:__ 3 months, __Level:__ Advanced, __Perequisite:__ Python, Statistics, Machine Learning, & Deep Learning
+__Recommended time:__ 3 months, __Level:__ Advanced, __Prerequisite:__ Python, Statistics, Machine Learning, & Deep Learning
 
 #### Projects
 * Facial Keypoint Detection
@@ -75,7 +76,7 @@ __Recommended time:__ 3 months, __Level:__ Advanced, __Perequisite:__ Python, St
 * Landmark Detection and Tracking
 
 ### [NLPND: Natural Language Processing Nanodegree (nd892 v4.0.2)](NLPND)
-__Recommended time:__ 3 months, __Level:__ Advanced, __Perequisite:__ Python, Statistics, Machine Learning, & Deep Learning
+__Recommended time:__ 3 months, __Level:__ Advanced, __Prerequisite:__ Python, Statistics, Machine Learning, & Deep Learning
 
 #### Projects
 * Part of Speech Tagging
@@ -83,7 +84,7 @@ __Recommended time:__ 3 months, __Level:__ Advanced, __Perequisite:__ Python, St
 * Speech Recognizer
 
 ### [DL: Deep Learning (nd101 v8.0.0)](DL)
-__Recommended time:__ 4 months, __Level:__ Intermediate, __Perequisite:__ Basic Python
+__Recommended time:__ 4 months, __Level:__ Intermediate, __Prerequisite:__ Basic Python
 
 The course recommends the book by Andrew Trask who also gives a lecture on Sentiment Analysis:
 * English: [Grokking Deep Learning](https://amzn.to/3qqyD3R)
@@ -99,7 +100,7 @@ The Deep Learning Nanodegree program teaches you how to use key techniques that 
 * [Deploying a Sentiment Analysis Model](DL/Deploying%20a%20Sentiment%20Analysis%20Model) (Deploying a Model)
 
 ### [DRLND: Deep Reinforcement Learning Nanodegree (nd893 v2.0.0)](DRLND)
-__Recommended time:__ 3 months, __Level:__ Advanced, __Perequisite:__ Experience with Python, Probability, Machine Learning, & Deep Learning.
+__Recommended time:__ 3 months, __Level:__ Advanced, __Prerequisite:__ Experience with Python, Probability, Machine Learning, & Deep Learning.
 
 The course recommends the book by Miguel Morales who also gives a lecture on Actor-Critic Methods:
 * English: [Grokking Deep Reinforcement Learning](https://amzn.to/3A0gEWD)
@@ -112,7 +113,7 @@ The Deep Reinforcement Learning Nanodegree program shows you how to teach AI age
 * Collaboration and Competition (Multi-Agent Reinforcement Learning)
 
 ### [MLE: Machine Learning Engineer (nd009-ent v4.0.0)](MLE)
-__Recommended time:__ 3 months, __Level:__ Intermediate, __Perequisite:__ Intermediate Python & Machine Learning Algorithms
+__Recommended time:__ 3 months, __Level:__ Intermediate, __Prerequisite:__ Intermediate Python & Machine Learning Algorithms
 
 Master advanced machine learning techniques and algorithms, and learn how to deploy your models to production.
 

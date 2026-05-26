@@ -1,6 +1,6 @@
 # DEND: Data Engineering Nanodegree (nd027)
 
-Recommended time: 5 months, Level: Intermediate, Perequisite: Intermediate Python & SQL
+Recommended time: 5 months, Level: Intermediate, Prerequisite: Intermediate Python & SQL
 
 Data Engineering is the foundation for the new world of Big Data. It teaches how to build production-ready data infrastructure, an essential skill for advancing a data career.
 

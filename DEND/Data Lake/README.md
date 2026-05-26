@@ -1,55 +1,22 @@
-# Udacity Data Engineering Nanodegree Program ND027
-
-This project is part of the Udacity Data Engineering Nanodegree Program.
-
 ## Data Lake
 
-This project is an evolution of the previous projects within the course. 
-An ETL (Extract, Transform and Load) pipeline loads data from S3 transforms it using spark and loads it back to S3.
+ETL pipeline that reads raw Sparkify song and log data from S3, transforms it with PySpark into analytics-ready dimensional tables, and writes them back to S3 as partitioned Parquet — the lake equivalent of the Postgres / Redshift versions of this dataset.
 
-### Instructions: Prerequisites, Installing and Running 
+### Stack
+PySpark, AWS S3 (runs locally or on EMR)
 
-- Setup an S3 bucket and store login in df.cfg.
-- Process the data from the S3 sources with etl.py.
+### Schema (Star, Parquet on S3)
+- **Fact** — `songplays`: partitioned by year and month
+- **Dimensions** — `users`, `artists`, `songs` (partitioned by year, artist), `time` (partitioned by year, month)
 
-etl.py file can be run as shown:
-```
-python etl.py 
-```
-
-### Project Files
-
+### Files
 ```
 .
-├── data/                  Data Folder
-├── etl.py                 ETL script to process the data
-├── README.md              Readme of the project
+├── etl.py   Spark job: read S3 → transform → write S3 as Parquet
+└── dl.cfg   AWS credentials (gitignored)
 ```
 
-
-### Database Schema Design
-
-- songplays: records in log data associated with song plays 
-- users: users in the app.
-- songs: songs from the music database
-- artists: artists from the music database
-- time: timestamps of records in songplays broken down into specific units
-
-
-## Review
-
-A few articles of interest:
-- TOP FIVE DIFFERENCES BETWEEN DATA LAKES AND DATA WAREHOUSES: https://www.blue-granite.com/blog/bid/402596/top-five-differences-between-data-lakes-and-data-warehouses
-- What Is A Data Lake? A Super-Simple Explanation For Anyone: https://www.forbes.com/sites/bernardmarr/2018/08/27/what-is-a-data-lake-a-super-simple-explanation-for-anyone/#4f61b70d76e0
-- When Should We Load Relational Data to a Data Lake?: https://www.sqlchick.com/entries/2018/11/13/when-should-we-load-relational-data-to-a-data-lake
-
-Partitioning helps queries to run much faster. See this article on detailed info on partition, https://mungingdata.com/apache-spark/partitionby/
-
-Refer good READMEs on web:
-- https://github.com/matiassingers/awesome-readme
-- https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project
-- https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3
-- 
-Suggestions:
-- Add a screenshot or an image (ER Diagram) showing how the fact and dimension tables are connected.
-- You can make use of online tools like https://www.lucidchart.com/
+### Run
+```
+python etl.py
+```

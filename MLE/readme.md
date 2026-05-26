@@ -1,6 +1,6 @@
 
 ### MLE: Machine Learning Engineer (nd009-ent)
-__Recommended time:__ 3 months, __Level:__ Intermediate, __Perequisite:__ Intermediate Python & Machine Learning Algorithms
+__Recommended time:__ 3 months, __Level:__ Intermediate, __Prerequisite:__ Intermediate Python & Machine Learning Algorithms
 
 Learn advanced machine learning techniques and algorithms -- including how to package and deploy your models to a production environment.
 
@@ -24,8 +24,8 @@ Tips for the Machine Learning Nanodegree taken from https://github.com/machinele
 ## Videos
 "Because the video material for this Nanodegree (ND) is taken from multiple existing Udacity courses, it can seem jarring at times, or missing material. One great option is to just simply watch the entire video series, in their original format, as Udacity Classes."
 * [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120): Pattern Recognition for Fun and Profit
-* [Machine Learning by Gorgia Tech](https://www.udacity.com/course/machine-learning--ud262): Supervised, Unsupervised & Reinforcement
-* [Reinforcement Learning by Gorgia Tech](https://www.udacity.com/course/reinforcement-learning--ud600): Offered at Georgia Tech as CS 8803
+* [Machine Learning by Georgia Tech](https://www.udacity.com/course/machine-learning--ud262): Supervised, Unsupervised & Reinforcement
+* [Reinforcement Learning by Georgia Tech](https://www.udacity.com/course/reinforcement-learning--ud600): Offered at Georgia Tech as CS 8803
 
 ## Additional free content:
 * [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)

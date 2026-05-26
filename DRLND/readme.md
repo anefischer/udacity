@@ -1,7 +1,7 @@
 ### DRLND: Deep Reinforcement Learning Nanodegree (nd893)
-__Recommended time:__ 3 months, __Level:__ Advanced, __Perequisite:__ Experience with Python, Probability, Machine Learning, & Deep Learning.
+__Recommended time:__ 3 months, __Level:__ Advanced, __Prerequisite:__ Experience with Python, Probability, Machine Learning, & Deep Learning.
 
-The course recommends the book by Miguel Morales who also gives a lecture within the programm:
+The course recommends the book by Miguel Morales who also gives a lecture within the program:
 * English: [Grokking Deep Reinforcement Learning](https://amzn.to/3A0gEWD)
 
 The Deep Reinforcement Learning Nanodegree program teaches how to train AI agents to perform a variety of complex tasks.
